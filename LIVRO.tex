@@ -1,0 +1,53 @@
+\documentclass[semcabeco,showtrims,11pt,conselho,compontinhos,spreadimages]{memoir}
+
+\usepackage{commands}
+\usepackage[vieira]{hedra}
+\usepackage{penalidades}
+
+\usepackage{gitrevisioninfo}
+
+\renewcommand{\asterisc}{{\centering\adforn{47}\par}}
+
+\newcommand{\forceindent}{\leavevmode{\parindent=1,5em\indent}}
+
+\usepackage{imakeidx} 
+\makeindex[program=xindy, options=-C utf8 -L portuguese]
+\makeindex[title= Índice remissivo]
+\makeindex[name=persons,title= Índice onomástico]
+
+\makeindex[intoc]
+\makeindex[name=persons,title= Índice onomástico, intoc]
+
+%\newcommand{\grego}[1]{#1}
+\hyphenation{vio-len-tas}
+\hyphenation{neo-li-be-ral}
+\hyphenation{neo-li-be-ra-lis-mo}
+\hyphenation{jo-via-li-da-de}
+
+\makeatletter
+\newenvironment{Parskip}{%
+   \par
+   \parskip=0.3\baselineskip \advance\parskip by 0pt plus 2pt
+   \parindent=\z@
+   \def\@listI{\leftmargin\leftmargini
+      \topsep\z@ \parsep\parskip \itemsep\z@}
+   \let\@listi\@listI
+   \@listi
+   \def\@listii{\leftmargin\leftmarginii
+      \labelwidth\leftmarginii\advance\labelwidth-\labelsep
+      \topsep\z@ \parsep\parskip \itemsep\z@}
+   \def\@listiii{\leftmargin\leftmarginiii
+       \labelwidth\leftmarginiii\advance\labelwidth-\labelsep
+       \topsep\z@ \parsep\parskip \itemsep\z@}
+   \partopsep=\z@
+}{\par}
+\makeatother
+
+\hyphenation{viet-con-gues}
+
+\begin{document}
+
+
+\include{INPUTS}
+
+\end{document}
