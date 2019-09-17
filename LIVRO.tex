@@ -1,28 +1,36 @@
-\documentclass[semcabeco,showtrims,11pt,conselho,compontinhos,spreadimages]{memoir}
+\documentclass[showtrims,compontinhos,12pt,conselho,spreadimages]{memoir}
 
-\usepackage{commands}
-\usepackage[vieira]{hedra}
+\usepackage[16x23]{hedraoptions} %% << %%%%%%%%%%%%%%%%
+\usepackage[baruch]{hedrastyles}
+\usepackage[xetex,chicagofootnotes]{tipografia}
+\usepackage[standart,sempontinhos]{toc}
+\usepackage{hedraextra}
 \usepackage{penalidades}
-
+\usepackage{graficos}
+\usepackage{hedralogo}
+\usepackage{hifensextras}
+\usepackage{fichatecnica}
+\usepackage[standart]{aparatos}
+\usepackage{tabelas}
+\usepackage{versos}
 \usepackage{gitrevisioninfo}
+
+%\linespread{1.08}
+\usepackage{commands}
+
+\usepackage{setspace}
+
+\newcommand{\signature}[1]{{\par\nobreak
+      \smallskip\hfill#1\par
+  }}
 
 \renewcommand{\asterisc}{{\centering\adforn{47}\par}}
 
-\newcommand{\forceindent}{\leavevmode{\parindent=1,5em\indent}}
-
-\usepackage{imakeidx} 
-\makeindex[program=xindy, options=-C utf8 -L portuguese]
-\makeindex[title= Índice remissivo]
-\makeindex[name=persons,title= Índice onomástico]
-
-\makeindex[intoc]
-\makeindex[name=persons,title= Índice onomástico, intoc]
-
-%\newcommand{\grego}[1]{#1}
-\hyphenation{vio-len-tas}
-\hyphenation{neo-li-be-ral}
-\hyphenation{neo-li-be-ra-lis-mo}
-\hyphenation{jo-via-li-da-de}
+\makeatletter
+\def\@xfootnote[#1]{%
+  \protected@xdef\@thefnmark{#1}%
+  \@footnotemark\@footnotetext}
+\makeatother
 
 \makeatletter
 \newenvironment{Parskip}{%
@@ -43,10 +51,15 @@
 }{\par}
 \makeatother
 
-\hyphenation{viet-con-gues}
+\newlength\mystoreparindent
+\newenvironment{myparindent}[1]{%
+\setlength{\mystoreparindent}{\the\parindent}
+\setlength{\parindent}{#1}
+}{%
+\setlength{\parindent}{\mystoreparindent}
+}
 
 \begin{document}
-
 
 \include{INPUTS}
 
