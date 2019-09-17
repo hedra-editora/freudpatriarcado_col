@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Arch Linux)  (format=lualatex 2017.10.31)  17 SEP 2019 17:00
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Arch Linux)  (format=lualatex 2017.10.31)  17 SEP 2019 17:57
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.271 seconds
+luaotfload | main : initialization completed in 0.236 seconds
 Babel <3.12> and hyphenation patterns for 1 language(s) loaded.
 (/usr/share/texmf-dist/tex/latex/memoir/memoir.cls
 Document Class: memoir 2016/05/16 v3.7f configurable book, report, article docum
@@ -1693,14 +1693,7 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: rotating package is loaded.
 Package caption Info: xtab package is loaded.
 Package caption Info: End \AtBeginDocument code.
-(load luc: /home/editorial/.texlive/texmf-var/luatex-cache/generic/fonts/otl/lmm
-ono12-regular.luc)
-Package microtype Info: Loading generic protrusion settings for font family
-(microtype)             `lmtt' (encoding: TU).
-(microtype)             For optimal results, create family-specific settings.
-(microtype)             See the microtype manual for details.
-(load luc: /home/editorial/.texlive/texmf-var/luatex-cache/generic/fonts/otl/lmm
-ono8-regular.luc) [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+ [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
 ]
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -1724,8 +1717,8 @@ File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 (/usr/share/texmf-dist/tex/latex/microtype/mt-ptm.cfg
 File: mt-ptm.cfg 2006/04/20 v1.7 microtype config. file: Times (RS)
-) [3] (./PRETAS.tex(load luc: /home/editorial/.texlive/texmf-var/luatex-cache/ge
-neric/fonts/otl/lmmono10-regular.luc) [4
+) [3] (./PRETAS.tex
+[4
 
 ] [5] [6] [7] [8]) [9] [10] (./LIVRO.toc
 Underfull \hbox (badness 1337) in paragraph at lines 50--50
@@ -1733,14 +1726,7 @@ Underfull \hbox (badness 1337) in paragraph at lines 50--50
 do pe-los li-mi-tes da 
  []
 
-[11]
-Underfull \hbox (badness 1194) in paragraph at lines 65--65
-[]|\TU/LinuxLibertineO(0)/m/sc/14.4    
- : 
-  
- []
-
-) [12]
+[11]) [12]
 \openout2 = INPUTS.aux
  (./INPUTS.tex (./INTRO.tex
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -1767,13 +1753,13 @@ Overfull \vbox (17.6239pt too high) has occurred while \output is active []
 
 ] [28] [29] [30]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 190.
+(Font)              <10.95> on input line 191.
 
 Overfull \vbox (8.3189pt too high) has occurred while \output is active []
 
 
 [31] [32] [33] [34] [35] [36] [37] [38] [39] [40] [41] [42] [43] [44]
-Underfull \hbox (badness 4024) in paragraph at lines 718--721
+Underfull \hbox (badness 4024) in paragraph at lines 719--722
 \TU/LinuxLibertineO(0)/m/n/12 dis-po-ní-vel em Find a grave: https://www.fin-d
 a-grave.com/cgi-
  []
@@ -1781,13 +1767,12 @@ a-grave.com/cgi-
 [45] [46
 
 ] [47] [48] [49]
-Overfull \vbox (19.304pt too high) has occurred while \output is active []
+Overfull \vbox (4.804pt too high) has occurred while \output is active []
 
+ [50]
+[51] [52] [53] [54] [55] [56] [57] [58] [59]) (./PART2.tex [60] [61
 
-[50] [51] [52] [53] [54] [55] [56] [57] [58] [59]) (./PART2.tex [60] [61
-
-]
-[62]
+] [62]
 Overfull \vbox (10.98177pt too high) has occurred while \output is active []
 
 
@@ -1808,18 +1793,21 @@ Overfull \vbox (17.10799pt too high) has occurred while \output is active []
 [77] [78] [79] [80] [81
 Missing character: There is no   (U+2028) in font LinuxLibertineO:mode=node;sc
 ript=latn;language=DFLT;+tlig;!
-] [82] [83] [84] [85] [86] [87
+] [82] [83] [84] [85] [86]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 919.
+ [87
 
 ] [88] [89] [90] [91]
 [92] [93] [94] [95] [96] [97] [98] [99] [100] [101] [102] [103] [104] [105]
 [106] [107] [108] [109] [110] [111] [112] [113] [114] [115] [116
 
 ]
-Overfull \vbox (5.7988pt too high) has occurred while \output is active []
+Overfull \vbox (3.92299pt too high) has occurred while \output is active []
 
 
 [117]
-Overfull \vbox (10.10799pt too high) has occurred while \output is active []
+Overfull \vbox (10.15599pt too high) has occurred while \output is active []
 
 
 [118] [119] [120] [121]
@@ -1844,16 +1832,16 @@ Overfull \vbox (12.24799pt too high) has occurred while \output is active []
 
 [133] [134] [135] [136] [137] [138] [139] [140
 
-] [141] [142] [143]
-Overfull \vbox (17.35605pt too high) has occurred while \output is active []
+] [141] [142] [143] [144]
+[145] [146]
+Overfull \vbox (12.15602pt too high) has occurred while \output is active []
 
 
-[144] [145] [146] [147]
-Overfull \vbox (7.60802pt too high) has occurred while \output is active []
+[147]
+Overfull \vbox (9.736pt too high) has occurred while \output is active []
 
-
-[148]
-Overfull \vbox (0.15599pt too high) has occurred while \output is active []
+ [148]
+Overfull \vbox (14.60799pt too high) has occurred while \output is active []
 
 
 [149] [150] [151
@@ -1864,17 +1852,17 @@ Overfull \vbox (19.65599pt too high) has occurred while \output is active []
 
 
 [152]
-Underfull \hbox (badness 10000) in paragraph at lines 3353--3353
+Underfull \hbox (badness 10000) in paragraph at lines 3320--3320
 \TU/LinuxLibertineO(0)/m/it/10 po-Pa-gina=4&int-Pu-bli-ca-cion=13&in-tE-di-cion
 =9&in-tI-di-o-ma-Pu-bli-ca-cion=9&in-tAr-ti-
  []
 
 
-Overfull \vbox (7.60799pt too high) has occurred while \output is active []
+Overfull \vbox (7.47598pt too high) has occurred while \output is active []
 
 
 [153] [154]
-Overfull \vbox (11.45602pt too high) has occurred while \output is active []
+Overfull \vbox (16.85599pt too high) has occurred while \output is active []
 
 
 [155] [156] [157] [158]
@@ -1882,443 +1870,443 @@ Overfull \vbox (13.65602pt too high) has occurred while \output is active []
 
 
 [159]
-Overfull \vbox (6.60802pt too high) has occurred while \output is active []
+Overfull \vbox (18.65605pt too high) has occurred while \output is active []
 
 
 [160]
-Overfull \vbox (9.30406pt too high) has occurred while \output is active []
+Overfull \vbox (11.85204pt too high) has occurred while \output is active []
 
 
 [161] [162] [163] [164]
-Overfull \hbox (1.46768pt too wide) in paragraph at lines 3859--3863
+Overfull \hbox (1.46768pt too wide) in paragraph at lines 3826--3830
 \TU/LinuxLibertineO(0)/m/n/12 acu-mu-la-ção por de-sa-pos-sa-mento''. In: \TU
 /LinuxLibertineO(0)/m/it/12 http://www4.pucsp.br/neils/down-
  []
 
 [165]
-Overfull \hbox (13.17137pt too wide) in paragraph at lines 3890--3892
+Overfull \hbox (13.17137pt too wide) in paragraph at lines 3857--3859
 []\TU/LinuxLibertineO(0)/m/it/12 https://www.wa-pol.org/pt/ar-ti-cu-los/Tem-pla
 te.asp?int-Ti-po-Pa-gina=4&int-
  []
 
 
-Overfull \hbox (25.92113pt too wide) in paragraph at lines 3890--3892
+Overfull \hbox (25.92113pt too wide) in paragraph at lines 3857--3859
 \TU/LinuxLibertineO(0)/m/it/12 Pu-bli-ca-cion=13&in-tE-di-cion=9&in-tI-di-o-ma-
 Pu-bli-ca-cion=9&in-tAr-ti-culo=2742&in-
  []
 
-[166]) (./PART3.tex [167] [168
+) (./PART3.tex [166] [167
 
-] [169] [170] [171
+] [168] [169
 
-] [172]
+] [170]
 Overfull \vbox (19.60805pt too high) has occurred while \output is active []
 
 
-[173]
+[171]
 Overfull \vbox (11.231pt too high) has occurred while \output is active []
 
 
-[174]
+[172]
 Overfull \vbox (8.60814pt too high) has occurred while \output is active []
 
 
-[175]
+[173]
 Overfull \vbox (4.15602pt too high) has occurred while \output is active []
 
 
-[176]
+[174]
 Overfull \vbox (18.183pt too high) has occurred while \output is active []
 
 
-[177]
+[175]
 Overfull \vbox (16.60802pt too high) has occurred while \output is active []
 
 
-[178] [179]
+[176] [177]
 Overfull \vbox (14.15611pt too high) has occurred while \output is active []
 
 
-[180]
+[178]
 Overfull \vbox (16.60805pt too high) has occurred while \output is active []
 
 
-[181]
+[179]
 Overfull \vbox (22.15602pt too high) has occurred while \output is active []
 
 
-[182]
+[180]
 Overfull \vbox (1.231pt too high) has occurred while \output is active []
 
- [183]
+ [181]
 Overfull \vbox (16.10799pt too high) has occurred while \output is active []
 
 
-[184]
+[182]
 Overfull \vbox (12.60799pt too high) has occurred while \output is active []
 
 
-[185]
+[183]
 Overfull \vbox (7.15602pt too high) has occurred while \output is active []
 
 
-[186]
+[184]
 Overfull \vbox (11.45605pt too high) has occurred while \output is active []
 
 
-[187]
+[185]
 Overfull \vbox (6.18303pt too high) has occurred while \output is active []
 
 
-[188]
+[186]
 Overfull \vbox (13.73103pt too high) has occurred while \output is active []
 
 
-[189]
+[187]
 Overfull \vbox (16.03098pt too high) has occurred while \output is active []
 
 
-[190] [191] [192] [193] [194
+[188] [189] [190] [191] [192
 
-] [195] [196] [197] [198] [199] [200] [201]
-[202] [203] [204] [205] [206] [207] [208
+] [193] [194] [195] [196] [197] [198] [199]
+[200] [201] [202] [203] [204] [205] [206
 
 ]
 Overfull \vbox (8.44386pt too high) has occurred while \output is active []
 
 
-[209] [210] [211] [212] [213] [214]
+[207] [208] [209] [210] [211] [212]
 Overfull \vbox (11.65599pt too high) has occurred while \output is active []
 
 
-[215] [216] [217] [218] [219] [220]
+[213] [214] [215] [216] [217] [218]
 Overfull \vbox (10.15599pt too high) has occurred while \output is active []
 
 
-[221] [222]
+[219] [220]
 Overfull \hbox (2.4826pt too wide) in paragraph at lines 1885--1909
 []\TU/LinuxLibertineO(0)/m/n/12 Para ma-pear esse en-ten-di-mento do ex-ce-dent
 e com o ``conhecimento-
  []
 
-[223] [224] [225] [226] [227]
+[221] [222] [223] [224] [225]
 Underfull \hbox (badness 3646) in paragraph at lines 2093--2096
 []\TU/LinuxLibertineO(0)/m/n/12 Mil-ler,J.A.(\TU/LinuxLibertineO(0)/m/it/12 200
 3)‘La-can’s La-ter Te-a-ching’.La-ca-nian Ink \TU/LinuxLibertineO(0)/m/n/
 12 Vol.21
  []
 
-) (./PART4.tex [228] [229
+) (./PART4.tex [226] [227
 
-] [230]
+] [228]
 Overfull \vbox (3.12387pt too high) has occurred while \output is active []
 
 
-[231
+[229
 
-] [232] [233] [234]
+] [230] [231] [232]
 Overfull \vbox (13.73097pt too high) has occurred while \output is active []
 
 
-[235] [236]
+[233] [234]
 Overfull \vbox (7.456pt too high) has occurred while \output is active []
 
- [237]
-[238] [239] [240] [241] [242] [243]
+ [235]
+[236] [237] [238] [239] [240] [241]
 Overfull \vbox (14.33092pt too high) has occurred while \output is active []
 
 
-[244] [245]
+[242] [243]
 Overfull \vbox (19.65599pt too high) has occurred while \output is active []
 
 
-[246]
+[244]
 Overfull \vbox (7.47598pt too high) has occurred while \output is active []
 
 
-[247] [248]
+[245] [246]
 Underfull \hbox (badness 1460) in paragraph at lines 679--690
 []\TU/LinuxLibertineO(0)/m/n/12 Uma das con-di-ções im-pos-tas por Hans era a
  da que Otto
  []
 
-[249] [250] [251] [252
+[247] [248] [249] [250
 
 ]
 Overfull \vbox (10.62387pt too high) has occurred while \output is active []
 
 
-[253] [254]
+[251] [252]
 Overfull \vbox (5.10799pt too high) has occurred while \output is active []
 
 
-[255]
+[253]
 Overfull \vbox (8.73097pt too high) has occurred while \output is active []
 
 
-[256] [257] [258] [259] [260]
+[254] [255] [256] [257] [258]
 Overfull \vbox (8.28302pt too high) has occurred while \output is active []
 
 
-[261]
+[259]
 Overfull \vbox (12.65599pt too high) has occurred while \output is active []
 
 
-[262] [263] [264] [265] [266] [267]) (./PART5.tex [268] [269
+[260] [261] [262] [263] [264] [265]) (./PART5.tex [266] [267
 
-] [270] [271
+] [268] [269
 
 ]
 Overfull \vbox (11.24799pt too high) has occurred while \output is active []
 
 
-[272] [273] [274]
+[270] [271] [272]
 Overfull \vbox (18.73097pt too high) has occurred while \output is active []
 
 
-[275] [276] [277]
+[273] [274] [275]
 Overfull \vbox (7.60799pt too high) has occurred while \output is active []
 
 
-[278] [279] [280]
+[276] [277] [278]
 Overfull \vbox (10.10799pt too high) has occurred while \output is active []
 
 
-[281] [282]
+[279] [280]
 Overfull \vbox (11.75012pt too high) has occurred while \output is active []
 
 
-[283] [284] [285]
+[281] [282] [283]
 Overfull \vbox (19.60799pt too high) has occurred while \output is active []
 
 
-[286]
+[284]
 Overfull \vbox (12.65599pt too high) has occurred while \output is active []
 
 
-[287]
+[285]
 Overfull \vbox (7.60799pt too high) has occurred while \output is active []
 
 
-[288]
+[286]
 Overfull \vbox (19.304pt too high) has occurred while \output is active []
 
 
-[289]
+[287]
 Overfull \vbox (17.10799pt too high) has occurred while \output is active []
 
 
-[290] [291]
+[288] [289]
 Overfull \vbox (17.05603pt too high) has occurred while \output is active []
 
 
-[292]
+[290]
 Overfull \vbox (12.10799pt too high) has occurred while \output is active []
 
 
-[293]
+[291]
 Overfull \vbox (14.60802pt too high) has occurred while \output is active []
 
 
-[294] [295] [296] [297]
+[292] [293] [294] [295]
 Overfull \vbox (19.15599pt too high) has occurred while \output is active []
 
 
-[298] [299]
+[296] [297]
 Overfull \vbox (21.10805pt too high) has occurred while \output is active []
 
 
-[300]
+[298]
 Overfull \vbox (11.15602pt too high) has occurred while \output is active []
 
 
-[301] [302]
+[299] [300]
 Overfull \vbox (16.60802pt too high) has occurred while \output is active []
 
 
-[303]
+[301]
 Overfull \vbox (12.60799pt too high) has occurred while \output is active []
 
 
-[304] [305] [306] [307] [308] [309
+[302] [303] [304] [305] [306] [307
 
-] [310]
+] [308]
 Overfull \vbox (2.28531pt too high) has occurred while \output is active []
 
 
-[311]
+[309]
 Overfull \vbox (14.40402pt too high) has occurred while \output is active []
 
 
-[312]
+[310]
 Overfull \vbox (18.18303pt too high) has occurred while \output is active []
 
 
-[313]
+[311]
 Overfull \vbox (17.15602pt too high) has occurred while \output is active []
+
+
+[312]
+Overfull \vbox (7.60802pt too high) has occurred while \output is active []
+
+
+[313]
+Overfull \vbox (7.60802pt too high) has occurred while \output is active []
 
 
 [314]
-Overfull \vbox (7.60802pt too high) has occurred while \output is active []
-
-
-[315]
-Overfull \vbox (7.60802pt too high) has occurred while \output is active []
-
-
-[316]
 Overfull \vbox (17.15602pt too high) has occurred while \output is active []
 
 
-[317]
+[315]
 Overfull \vbox (1.53098pt too high) has occurred while \output is active []
 
 
-[318]
+[316]
 Overfull \vbox (5.15602pt too high) has occurred while \output is active []
 
 
-[319] [320]
+[317] [318]
 Overfull \vbox (18.68297pt too high) has occurred while \output is active []
 
 
-[321] [322] [323
+[319] [320] [321
 
 ]
 Overfull \vbox (19.70636pt too high) has occurred while \output is active []
 
 
-[324]
+[322]
 Overfull \vbox (10.10406pt too high) has occurred while \output is active []
 
 
-[325] [326] [327]
+[323] [324] [325]
 Overfull \vbox (11.65599pt too high) has occurred while \output is active []
 
 
-[328] [329]
+[326] [327]
 Overfull \vbox (10.10799pt too high) has occurred while \output is active []
 
 
-[330]
+[328]
 Overfull \vbox (0.15599pt too high) has occurred while \output is active []
 
 
-[331] [332]
+[329] [330]
 Overfull \vbox (7.65602pt too high) has occurred while \output is active []
 
 
-[333] [334] [335]
+[331] [332] [333]
 Overfull \vbox (21.156pt too high) has occurred while \output is active []
 
 
-[336] [337] [338] [339]
+[334] [335] [336] [337]
 Overfull \vbox (2.60802pt too high) has occurred while \output is active []
 
 
-[340] [341]
+[338] [339]
 Overfull \vbox (12.65599pt too high) has occurred while \output is active []
 
 
-[342] [343]
+[340] [341]
 Underfull \hbox (badness 3209) in paragraph at lines 2798--2800
 []\TU/LinuxLibertineO(0)/m/n/12 LA-CAN, Jac-ques. (1975) \TU/LinuxLibertineO(0)
 /m/it/12 Se-mi-ná-rio, li-vro 20: Mais, ainda\TU/LinuxLibertineO(0)/m/n/12 .
  []
 
-[344]
+[342]
 Underfull \hbox (badness 10000) in paragraph at lines 2830--2835
 \TU/LinuxLibertineO(0)/m/n/12 publicar-entrevista-camille-paglia-fronteiras-do-
 pensamento.shtml>.
  []
 
-[345] [346
+[343] [344
 
-] [347] [348]
+] [345] [346]
 Overfull \vbox (12.65599pt too high) has occurred while \output is active []
 
 
-[349]
+[347]
 Overfull \vbox (7.60805pt too high) has occurred while \output is active []
 
 
-[350]
+[348]
 Overfull \vbox (14.65602pt too high) has occurred while \output is active []
 
 
-[351]
+[349]
 Overfull \vbox (18.404pt too high) has occurred while \output is active []
 
 
-[352]
+[350]
 Overfull \vbox (20.20409pt too high) has occurred while \output is active []
 
 
-[353] [354]
+[351] [352]
 Overfull \vbox (15.5271pt too high) has occurred while \output is active []
 
 
-[355]
+[353]
 Overfull \vbox (15.60805pt too high) has occurred while \output is active []
 
 
-[356]
+[354]
 Overfull \vbox (19.60802pt too high) has occurred while \output is active []
 
 
-[357]
+[355]
 Overfull \vbox (11.33092pt too high) has occurred while \output is active []
 
 
-[358]
+[356]
 Overfull \vbox (3.60799pt too high) has occurred while \output is active []
 
 
-[359]
+[357]
 Overfull \vbox (13.25206pt too high) has occurred while \output is active []
 
 
-[360]
+[358]
 Overfull \vbox (7.60802pt too high) has occurred while \output is active []
 
 
-[361]
+[359]
 Overfull \vbox (9.60805pt too high) has occurred while \output is active []
 
 
-[362]
+[360]
 Overfull \vbox (7.60799pt too high) has occurred while \output is active []
 
 
-[363]
+[361]
 Overfull \vbox (16.231pt too high) has occurred while \output is active []
 
 
-[364] [365]
+[362] [363]
 Overfull \hbox (90.4235pt too wide) in paragraph at lines 3597--3600
 []\TU/LinuxLibertineO(0)/m/n/12 . David-Ménard, Mo-ni-que. $[][]$ 
  []
 
-[366] [367] [368
+[364] [365] [366
 
-] [369] [370] [371] [372] [373] [374] [375] [376] [377]
-[378] [379] [380] [381]
+] [367] [368] [369] [370] [371] [372] [373] [374] [375]
+[376] [377] [378] [379]
 Overfull \vbox (19.65599pt too high) has occurred while \output is active []
 
 
-[382]
+[380]
 Overfull \vbox (20.27496pt too high) has occurred while \output is active []
 
 
-[383] [384] [385]
+[381] [382] [383]
 Overfull \vbox (19.15599pt too high) has occurred while \output is active []
 
 
-[386]
+[384]
 Overfull \vbox (2.65599pt too high) has occurred while \output is active []
 
 
-[387]
+[385]
 Overfull \hbox (0.13602pt too wide) in paragraph at lines 4414--4419
 \TU/LinuxLibertineO(0)/m/it/12 ga-ray_the_un_du-ti-ful_daugh-ter_of_psy-cho-a-n
 aly-sis._A_fe-mi-nist_mo-
@@ -2330,7 +2318,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 4414--4419
 _dis-course_of_psy-cho-a-
  []
 
-[388])) [389] 
+[386])) [387] 
 AED: lastpage setting LastPage
 
 \openout2 = PUBLICIDADE.aux
@@ -2339,12 +2327,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 6--8
 
  []
 
-[390
+[388
 
 
 
 
-] [391] [392] [393]) [394
+] [389] [390] [391]) [392
 
 
 ]
@@ -2354,29 +2342,28 @@ Underfull \hbox (badness 10000) in paragraph at lines 6--8
  (./LIVRO.aux (./INPUTS.aux) (./PUBLICIDADE.aux)))
 
 Here is how much of LuaTeX's memory you used:
- 24489 strings out of 494472
+ 24494 strings out of 494472
  100000,794899 words of node,token memory allocated
- 4862 words of node memory still in use:
-   4 hlist, 1 vlist, 1 rule, 219 glue, 1 penalty, 884 attribute, 195 glue_spec, 
+ 4867 words of node memory still in use:
+   4 hlist, 1 vlist, 1 rule, 219 glue, 1 penalty, 884 attribute, 196 glue_spec, 
 221 attribute_list, 3 shape, 2 write nodes
-   avail lists: 1:2,2:3397,3:252,4:133,5:431,6:4979,7:1497,8:80,9:370,10:32,11:7
-58
- 27378 multiletter control sequences out of 65536+600000
- 115 fonts using 22138447 bytes
- 50i,12n,70p,1369b,535s stack positions out of 5000i,500n,10000p,200000b,100000s
+   avail lists: 1:2,2:3317,3:251,4:133,5:426,6:4958,7:1497,8:76,9:357,10:32,11:7
+66
+ 27380 multiletter control sequences out of 65536+600000
+ 117 fonts using 22256495 bytes
+ 50i,14n,70p,1369b,573s stack positions out of 5000i,500n,10000p,200000b,100000s
 </usr/share/texmf-dist/fonts/opentype/public/libertine/LinLibertine_RBI.otf>{/us
 r/share/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}{/usr/share/texmf-dis
 t/fonts/enc/dvips/base/8r.enc}</usr/share/texmf-dist/fonts/opentype/public/liber
 tine/LinLibertine_RI.otf></usr/share/texmf-dist/fonts/opentype/public/libertine/
 LinLibertine_RB.otf></usr/share/texmf-dist/fonts/opentype/public/libertine/LinLi
-bertine_R.otf></usr/share/texmf-dist/fonts/opentype/public/lm/lmmono8-regular.ot
-f></usr/share/texmf-dist/fonts/type1/arkandis/adforn/OrnementsADF.pfb></usr/shar
-e/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcirclew.pfb></usr/share/texmf
--dist/fonts/type1/urw/times/utmr8a.pfb>
-Output written on LIVRO.pdf (394 pages, 1306719 bytes).
+bertine_R.otf></usr/share/texmf-dist/fonts/type1/arkandis/adforn/OrnementsADF.pf
+b></usr/share/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcirclew.pfb></usr
+/share/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
+Output written on LIVRO.pdf (392 pages, 1271016 bytes).
 
-PDF statistics: 1288 PDF objects out of 1440 (max. 8388607)
- 865 compressed objects within 9 object streams
+PDF statistics: 1275 PDF objects out of 1440 (max. 8388607)
+ 857 compressed objects within 9 object streams
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
