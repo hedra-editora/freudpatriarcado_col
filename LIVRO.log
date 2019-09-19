@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Arch Linux)  (format=lualatex 2017.10.31)  19 SEP 2019 13:20
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Arch Linux)  (format=lualatex 2017.10.31)  19 SEP 2019 15:10
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.287 seconds
+luaotfload | main : initialization completed in 0.227 seconds
 Babel <3.12> and hyphenation patterns for 1 language(s) loaded.
 (/usr/share/texmf-dist/tex/latex/memoir/memoir.cls
 Document Class: memoir 2016/05/16 v3.7f configurable book, report, article docum
@@ -1911,7 +1911,7 @@ Overfull \vbox (19.10805pt too high) has occurred while \output is active []
 
 
 [173]
-Overfull \vbox (19.10811pt too high) has occurred while \output is active []
+Overfull \vbox (7.10811pt too high) has occurred while \output is active []
 
 
 [174]
@@ -1959,14 +1959,7 @@ Overfull \vbox (11.65599pt too high) has occurred while \output is active []
 Overfull \vbox (10.15599pt too high) has occurred while \output is active []
 
 
-[213] [214] [215] [216] [217] [218] [219]
-Underfull \hbox (badness 3646) in paragraph at lines 2094--2097
-[]\TU/LinuxLibertineO(0)/m/n/12 Mil-ler,J.A.(\TU/LinuxLibertineO(0)/m/it/12 200
-3)‘La-can’s La-ter Te-a-ching’.La-ca-nian Ink \TU/LinuxLibertineO(0)/m/n/
-12 Vol.21
- []
-
-) (./PART4.tex [220] [221
+[213] [214] [215] [216] [217] [218] [219]) (./PART4.tex [220] [221
 
 ] [222]
 Overfull \vbox (3.12387pt too high) has occurred while \output is active []
@@ -2209,9 +2202,10 @@ Overfull \vbox (18.73097pt too high) has occurred while \output is active []
 
 
 [337]
-Underfull \hbox (badness 1577) in paragraph at lines 2804--2806
-[]\TU/LinuxLibertineO(0)/m/n/12 LA-CAN, Jac-ques. (1975) \TU/LinuxLibertineO(0)
-/m/it/12 Se-mi-ná-rio, li-vro 20: Mais, ainda\TU/LinuxLibertineO(0)/m/n/12 .
+Underfull \hbox (badness 2469) in paragraph at lines 2804--2806
+[]\TU/LinuxLibertineO(0)/m/sc/12 \TU/LinuxLibertineO(0)/m/n/1
+2 , Jac-ques. (1975) \TU/LinuxLibertineO(0)/m/it/12 Se-mi-ná-rio, li-vro 20: M
+ais, ainda\TU/LinuxLibertineO(0)/m/n/12 .
  []
 
 [338] [339] [340] [341
@@ -2323,16 +2317,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 6--8
  (./LIVRO.aux (./INPUTS.aux) (./PUBLICIDADE.aux)))
 
 Here is how much of LuaTeX's memory you used:
- 24489 strings out of 494472
+ 24502 strings out of 494472
  100000,794899 words of node,token memory allocated
  4862 words of node memory still in use:
    4 hlist, 1 vlist, 1 rule, 219 glue, 1 penalty, 884 attribute, 195 glue_spec, 
 221 attribute_list, 3 shape, 2 write nodes
-   avail lists: 1:2,2:3317,3:251,4:133,5:510,6:5262,7:1519,8:76,9:357,10:32,11:7
+   avail lists: 1:2,2:3317,3:251,4:133,5:521,6:5252,7:1519,8:76,9:357,10:32,11:7
 68
- 27355 multiletter control sequences out of 65536+600000
- 124 fonts using 23058003 bytes
- 50i,14n,70p,1369b,565s stack positions out of 5000i,500n,10000p,200000b,100000s
+ 27361 multiletter control sequences out of 65536+600000
+ 127 fonts using 24236983 bytes
+ 50i,14n,70p,1369b,571s stack positions out of 5000i,500n,10000p,200000b,100000s
 </usr/share/texmf-dist/fonts/opentype/public/libertine/LinLibertine_RBI.otf>{/us
 r/share/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}{/usr/share/texmf-dis
 t/fonts/enc/dvips/base/8r.enc}</usr/share/texmf-dist/fonts/opentype/public/liber
@@ -2341,7 +2335,7 @@ LinLibertine_RB.otf></usr/share/texmf-dist/fonts/opentype/public/libertine/LinLi
 bertine_R.otf></usr/share/texmf-dist/fonts/type1/arkandis/adforn/OrnementsADF.pf
 b></usr/share/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcirclew.pfb></usr
 /share/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
-Output written on LIVRO.pdf (388 pages, 1293127 bytes).
+Output written on LIVRO.pdf (388 pages, 1300148 bytes).
 
 PDF statistics: 1265 PDF objects out of 1440 (max. 8388607)
  848 compressed objects within 9 object streams
