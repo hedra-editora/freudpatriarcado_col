@@ -19,8 +19,8 @@
 \contentsline {chapter}{Por uma leitura reparadora do destino das mulheres criado pela psicanálise: de volta à Sociedade das Quartas-Feiras,\\ \relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip \emph {por Aline de Souza Martins e Lívia Santiago Moreira}}{87}
 \contentsline {section}{Atas da Sociedade Psicanalítica de Viena: mulheres fazendo os biscoitos enquanto os homens discutem coisas sérias }{91}
 \contentsline {section}{Destinos do Édipo}{98}
-\contentsline {section}{"Ainda essa discussão sobre patriarcado?": qual a regra do jogo e quem é o dono da bola}{100}
-\contentsline {section}{Mas "o inconsciente não tem sexo"... : aproximações do patriarcado com a psicanálise }{105}
+\contentsline {section}{``Ainda essa discussão sobre patriarcado?'': qual a regra do jogo e quem é o dono da bola}{100}
+\contentsline {section}{Mas ``o inconsciente não tem sexo''\dots {}: aproximações do patriarcado com a psicanálise }{105}
 \contentsline {section}{Mulheres questionando A Psicanálise }{108}
 \contentsline {section}{Conclusão: manutenção da forma através da exploração do conteúdo}{111}
 \contentsline {section}{Bibliografia}{113}
