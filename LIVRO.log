@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Arch Linux)  (format=lualatex 2017.10.31)  19 SEP 2019 18:38
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Arch Linux)  (format=lualatex 2017.10.31)  2 OCT 2019 16:23
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.230 seconds
+luaotfload | main : initialization completed in 0.228 seconds
 Babel <3.12> and hyphenation patterns for 1 language(s) loaded.
 (/usr/share/texmf-dist/tex/latex/memoir/memoir.cls
 Document Class: memoir 2016/05/16 v3.7f configurable book, report, article docum
@@ -1721,9 +1721,9 @@ File: mt-ptm.cfg 2006/04/20 v1.7 microtype config. file: Times (RS)
 [4
 
 ]) [5] [6] (./LIVRO.toc
-Underfull \hbox (badness 1337) in paragraph at lines 50--50
-[]|\TU/LinuxLibertineO(0)/m/n/10.95 Freud e o conhecimento-do-corpo -- vi-a-jan
-do pe-los li-mi-tes da 
+Underfull \hbox (badness 2334) in paragraph at lines 50--50
+[]|\TU/LinuxLibertineO(0)/m/n/10.95 Freud e o conhecimento-do-corpo: vi-a-jando
+ pe-los li-mi-tes da 
  []
 
 [7]) [8]
@@ -1855,7 +1855,11 @@ Overfull \vbox (14.60799pt too high) has occurred while \output is active []
 [145] [146] [147
 Missing character: There is no   (U+2028) in font LinuxLibertineO:mode=node;sc
 ript=latn;language=DFLT;+tlig;!
-] [148]
+]
+Overfull \vbox (1.04524pt too high) has occurred while \output is active []
+
+
+[148]
 Overfull \vbox (12.60799pt too high) has occurred while \output is active []
 
 
@@ -2317,14 +2321,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 6--8
  (./LIVRO.aux (./INPUTS.aux) (./PUBLICIDADE.aux)))
 
 Here is how much of LuaTeX's memory you used:
- 24502 strings out of 494472
+ 24505 strings out of 494472
  100000,794899 words of node,token memory allocated
- 4879 words of node memory still in use:
-   4 hlist, 1 vlist, 1 rule, 220 glue, 1 penalty, 888 attribute, 195 glue_spec, 
-222 attribute_list, 3 shape, 2 write nodes
+ 4896 words of node memory still in use:
+   4 hlist, 1 vlist, 1 rule, 221 glue, 1 penalty, 892 attribute, 195 glue_spec, 
+223 attribute_list, 3 shape, 2 write nodes
    avail lists: 1:2,2:3317,3:251,4:133,5:522,6:5328,7:1521,8:76,9:357,10:32,11:7
 68
- 27361 multiletter control sequences out of 65536+600000
+ 27364 multiletter control sequences out of 65536+600000
  127 fonts using 24236911 bytes
  50i,14n,70p,1369b,571s stack positions out of 5000i,500n,10000p,200000b,100000s
 </usr/share/texmf-dist/fonts/opentype/public/libertine/LinLibertine_RBI.otf>{/us
@@ -2335,7 +2339,7 @@ LinLibertine_RB.otf></usr/share/texmf-dist/fonts/opentype/public/libertine/LinLi
 bertine_R.otf></usr/share/texmf-dist/fonts/type1/arkandis/adforn/OrnementsADF.pf
 b></usr/share/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcirclew.pfb></usr
 /share/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
-Output written on LIVRO.pdf (388 pages, 1300200 bytes).
+Output written on LIVRO.pdf (388 pages, 1300610 bytes).
 
 PDF statistics: 1265 PDF objects out of 1440 (max. 8388607)
  848 compressed objects within 9 object streams
