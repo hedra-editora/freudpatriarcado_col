@@ -8,7 +8,7 @@
 \contentsline {section}{O patriarcado e a expulsão}{33}
 \contentsline {section}{Bibliografia}{40}
 \contentsline {chapter}{Vulnerabilidade fundamental, \relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip \emph {por Janaína Namba}}{43}
-\contentsline {section}{Referências Bibliográficas}{55}
+\contentsline {section}{Bibliografia}{55}
 \contentsline {part}{Interstícios do texto freudiano:\\ acerto de contas}{57}
 \contentsline {chapter}{Dentro do sonho, \relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip \emph {por Stephen Frosh}}{59}
 \contentsline {section}{As origens da psicanálise}{59}
