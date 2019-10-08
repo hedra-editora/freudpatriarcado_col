@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Arch Linux)  (format=lualatex 2017.10.31)  7 OCT 2019 15:39
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Arch Linux)  (format=lualatex 2017.10.31)  8 OCT 2019 14:44
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.246 seconds
+luaotfload | main : initialization completed in 0.234 seconds
 Babel <3.12> and hyphenation patterns for 1 language(s) loaded.
 (/usr/share/texmf-dist/tex/latex/memoir/memoir.cls
 Document Class: memoir 2016/05/16 v3.7f configurable book, report, article docum
@@ -1765,14 +1765,10 @@ nuxLibertineO(0)/m/it/12 https://bit.ly/2kIJDwo\TU/LinuxLibertineO(0)/m/n/12 >.
 
 [41] [42] [43
 
-] [44] [45]
-Overfull \vbox (16.804pt too high) has occurred while \output is active []
+] [44] [45] [46] [47] [48] [49] [50] [51] [52] [53] [54] [55])
+(./PART2.tex [56] [57
 
-
-[46] [47] [48] [49] [50] [51] [52] [53] [54] [55]) (./PART2.tex [56] [57
-
-]
-[58]
+] [58]
 Overfull \vbox (10.98177pt too high) has occurred while \output is active []
 
 
@@ -2322,13 +2318,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 6--8
 Here is how much of LuaTeX's memory you used:
  24506 strings out of 494472
  100000,794899 words of node,token memory allocated
- 4896 words of node memory still in use:
-   4 hlist, 1 vlist, 1 rule, 221 glue, 1 penalty, 892 attribute, 195 glue_spec, 
-223 attribute_list, 3 shape, 2 write nodes
+ 4879 words of node memory still in use:
+   4 hlist, 1 vlist, 1 rule, 220 glue, 1 penalty, 888 attribute, 195 glue_spec, 
+222 attribute_list, 3 shape, 2 write nodes
    avail lists: 1:2,2:3317,3:251,4:133,5:522,6:5328,7:1521,8:76,9:357,10:32,11:7
 68
  27365 multiletter control sequences out of 65536+600000
- 127 fonts using 24236839 bytes
+ 127 fonts using 24237199 bytes
  50i,14n,70p,1369b,571s stack positions out of 5000i,500n,10000p,200000b,100000s
 </usr/share/texmf-dist/fonts/opentype/public/libertine/LinLibertine_RBI.otf>{/us
 r/share/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}{/usr/share/texmf-dis
@@ -2338,7 +2334,7 @@ LinLibertine_RB.otf></usr/share/texmf-dist/fonts/opentype/public/libertine/LinLi
 bertine_R.otf></usr/share/texmf-dist/fonts/type1/arkandis/adforn/OrnementsADF.pf
 b></usr/share/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcirclew.pfb></usr
 /share/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
-Output written on LIVRO.pdf (388 pages, 1302713 bytes).
+Output written on LIVRO.pdf (388 pages, 1302204 bytes).
 
 PDF statistics: 1265 PDF objects out of 1440 (max. 8388607)
  848 compressed objects within 9 object streams
