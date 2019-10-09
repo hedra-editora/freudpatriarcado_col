@@ -35,55 +35,55 @@
 \contentsline {section}{Das tripas, coração}{143}
 \contentsline {section}{\textsc {\MakeTextLowercase {YHWY}} e o Nome-do-Pai}{149}
 \contentsline {section}{Da faxina geral ao gozo possível}{156}
-\contentsline {section}{Referências bibliográficas}{162}
-\contentsline {part}{Extraterritorialidades:\\ o olhar lançado de fora na análise de Freud}{165}
-\contentsline {chapter}{Oswald contra o Patriarcado: antropofagia, matriarcado e complexo de Édipo, \relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip \emph {por Filipe Ceppas}}{167}
-\contentsline {section}{Apresentação}{167}
-\contentsline {section}{Só a antropofagia nos une\footnote {Primeiro aforisma do \emph {Manifesto Antropófago}.}}{170}
-\contentsline {section}{Matriarcado}{173}
-\contentsline {section}{Um mito entre outros}{179}
-\contentsline {section}{\emph {Post scriptum 1}}{184}
-\contentsline {section}{\emph {Post scriptum 2}}{185}
-\contentsline {section}{Bibliografia}{186}
-\contentsline {chapter}{Escrever: Mulheres, ficção e psicanálise, \relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip \emph {por Julia F. Vasconcelos, Manuela B. Crissiuma, Mariana F. Angelini e Renata de Lima Conde}}{189}
-\contentsline {section}{REFERÊNCIAS BIBLIOGRÁFICAS}{200}
-\contentsline {chapter}{Freud e o conhecimento-do-corpo: viajando pelos limites da linguagem via angústia, \relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip \emph {por Ana Carolina Minozzo}}{203}
-\contentsline {section}{Um retorno ao Freud dos primórdios}{205}
-\contentsline {section}{Um excesso afirmativo}{212}
-\contentsline {section}{Referências}{220}
-\contentsline {part}{Contra o mestre: Freud em atrito com as ideias de seus contemporâneos}{223}
-\contentsline {chapter}{O patriarcado entre Sigmund Freud e Otto Gross,\\ \relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip \emph {por Marcelo Amorim Checchia}}{225}
-\contentsline {section}{Primeira escovada: o conceito de patriarcado na obra freudiana}{226}
-\contentsline {section}{Segunda escovada: quem foi Otto Gross? }{229}
-\contentsline {section}{Terceira escovada: como e porque Otto Gross foi segregado e esquecido?\footnote {\uppercase {U}m pente fino a contrapelo foi passado nessa história em ``\uppercase {O}tto \uppercase {G}ross: um caso de segregação e esquecimento na história da psicanálise''.}}{238}
-\contentsline {section}{Quarta escovada: a estrutura e a violência do patriarcado está disseminada nas comunidades psicanalíticas}{243}
-\contentsline {chapter}{Apontamentos ferenczianos para a atualidade da psicanálise,\\ \relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip \emph {por Paula Peron}}{247}
-\contentsline {section}{Muito além do principio da razão fálica }{250}
-\contentsline {section}{Estratégias de resistência e horizontalidade -- muito além do princípio de organização fálica }{255}
-\contentsline {section}{Palavras finais}{259}
-\contentsline {section}{Bibliografia}{260}
-\contentsline {part}{De Freud aos debates atuais:\\ psicanálise e feminismo}{263}
-\contentsline {chapter}{Introdução à \emph {Feminine sexuality}, \relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip \emph {por Jacqueline Rose}}{265}
-\contentsline {section}{I}{269}
-\contentsline {section}{II}{286}
-\contentsline {section}{Referências bibliográficas}{300}
-\contentsline {chapter}{Imposições sexuais e diferenças entre os sexos: bruxas, \emph {femmes seules}, solteironas e Sigmund Freud, \relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip \emph {por Beatriz Santos}}{305}
-\contentsline {section}{A heterossexualidade como instituição}{307}
-\contentsline {section}{Diferenças anatômicas, consequências psíquicas}{309}
-\contentsline {section}{Uma diferença de sexos}{314}
-\contentsline {section}{Bibliografia}{317}
-\contentsline {chapter}{Simbolicismo e circularidade fálica: em torno da crítica de Nancy Fraser ao ``lacanismo'', \relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip \emph {por Léa Silveira}}{319}
-\contentsline {section}{Referências bibliográficas}{339}
-\contentsline {chapter}{Sobre o declínio da autoridade paterna: uma discussão entre teoria crítica e psicanalistas feministas, \relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip \emph {por Virginia Helena Ferreira da Costa}}{343}
-\contentsline {section}{Introdução}{343}
-\contentsline {section}{Contexto de discussão: o declínio da autoridade paterna }{344}
-\contentsline {section}{Lasch \emph {versus} teóricas feministas: uma crítica ao apego ao patriarcado}{351}
-\contentsline {section}{A objetificação da mulher em Freud e uma saída feminista}{354}
-\contentsline {section}{Considerações finais}{360}
-\contentsline {section}{Referências bibliográficas}{361}
-\contentsline {chapter}{Sequelas patriarcalistas em Freud segundo Luce Irigaray: sexualidade feminina e diferença sexual, \relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip \emph {por Rafael Kalaf Cossi}}{365}
-\contentsline {section}{Introdução}{365}
-\contentsline {section}{Em combate ao \emph {um} sexo}{372}
-\contentsline {section}{Plano de ação}{379}
-\contentsline {section}{REFERÊNCIAS}{384}
+\contentsline {section}{Bibliografia}{163}
+\contentsline {part}{Extraterritorialidades:\\ o olhar lançado de fora na análise de Freud}{167}
+\contentsline {chapter}{Oswald contra o Patriarcado: antropofagia, matriarcado e complexo de Édipo, \relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip \emph {por Filipe Ceppas}}{169}
+\contentsline {section}{Apresentação}{169}
+\contentsline {section}{Só a antropofagia nos une\footnote {Primeiro aforisma do \emph {Manifesto Antropófago}.}}{172}
+\contentsline {section}{Matriarcado}{175}
+\contentsline {section}{Um mito entre outros}{181}
+\contentsline {section}{\emph {Post scriptum 1}}{186}
+\contentsline {section}{\emph {Post scriptum 2}}{187}
+\contentsline {section}{Bibliografia}{188}
+\contentsline {chapter}{Escrever: Mulheres, ficção e psicanálise, \relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip \emph {por Julia F. Vasconcelos, Manuela B. Crissiuma, Mariana F. Angelini e Renata de Lima Conde}}{191}
+\contentsline {section}{REFERÊNCIAS BIBLIOGRÁFICAS}{202}
+\contentsline {chapter}{Freud e o conhecimento-do-corpo: viajando pelos limites da linguagem via angústia, \relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip \emph {por Ana Carolina Minozzo}}{205}
+\contentsline {section}{Um retorno ao Freud dos primórdios}{207}
+\contentsline {section}{Um excesso afirmativo}{214}
+\contentsline {section}{Referências}{222}
+\contentsline {part}{Contra o mestre: Freud em atrito com as ideias de seus contemporâneos}{225}
+\contentsline {chapter}{O patriarcado entre Sigmund Freud e Otto Gross,\\ \relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip \emph {por Marcelo Amorim Checchia}}{227}
+\contentsline {section}{Primeira escovada: o conceito de patriarcado na obra freudiana}{228}
+\contentsline {section}{Segunda escovada: quem foi Otto Gross? }{231}
+\contentsline {section}{Terceira escovada: como e porque Otto Gross foi segregado e esquecido?\footnote {\uppercase {U}m pente fino a contrapelo foi passado nessa história em ``\uppercase {O}tto \uppercase {G}ross: um caso de segregação e esquecimento na história da psicanálise''.}}{240}
+\contentsline {section}{Quarta escovada: a estrutura e a violência do patriarcado está disseminada nas comunidades psicanalíticas}{245}
+\contentsline {chapter}{Apontamentos ferenczianos para a atualidade da psicanálise,\\ \relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip \emph {por Paula Peron}}{249}
+\contentsline {section}{Muito além do principio da razão fálica }{252}
+\contentsline {section}{Estratégias de resistência e horizontalidade -- muito além do princípio de organização fálica }{257}
+\contentsline {section}{Palavras finais}{261}
+\contentsline {section}{Bibliografia}{262}
+\contentsline {part}{De Freud aos debates atuais:\\ psicanálise e feminismo}{265}
+\contentsline {chapter}{Introdução à \emph {Feminine sexuality}, \relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip \emph {por Jacqueline Rose}}{267}
+\contentsline {section}{I}{271}
+\contentsline {section}{II}{288}
+\contentsline {section}{Referências bibliográficas}{302}
+\contentsline {chapter}{Imposições sexuais e diferenças entre os sexos: bruxas, \emph {femmes seules}, solteironas e Sigmund Freud, \relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip \emph {por Beatriz Santos}}{307}
+\contentsline {section}{A heterossexualidade como instituição}{309}
+\contentsline {section}{Diferenças anatômicas, consequências psíquicas}{311}
+\contentsline {section}{Uma diferença de sexos}{316}
+\contentsline {section}{Bibliografia}{319}
+\contentsline {chapter}{Simbolicismo e circularidade fálica: em torno da crítica de Nancy Fraser ao ``lacanismo'', \relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip \emph {por Léa Silveira}}{321}
+\contentsline {section}{Referências bibliográficas}{341}
+\contentsline {chapter}{Sobre o declínio da autoridade paterna: uma discussão entre teoria crítica e psicanalistas feministas, \relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip \emph {por Virginia Helena Ferreira da Costa}}{345}
+\contentsline {section}{Introdução}{345}
+\contentsline {section}{Contexto de discussão: o declínio da autoridade paterna }{346}
+\contentsline {section}{Lasch \emph {versus} teóricas feministas: uma crítica ao apego ao patriarcado}{353}
+\contentsline {section}{A objetificação da mulher em Freud e uma saída feminista}{356}
+\contentsline {section}{Considerações finais}{362}
+\contentsline {section}{Referências bibliográficas}{363}
+\contentsline {chapter}{Sequelas patriarcalistas em Freud segundo Luce Irigaray: sexualidade feminina e diferença sexual, \relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip \emph {por Rafael Kalaf Cossi}}{367}
+\contentsline {section}{Introdução}{367}
+\contentsline {section}{Em combate ao \emph {um} sexo}{374}
+\contentsline {section}{Plano de ação}{381}
+\contentsline {section}{REFERÊNCIAS}{386}
 \contentsfinish 
