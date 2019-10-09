@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Arch Linux)  (format=lualatex 2017.10.31)  8 OCT 2019 18:43
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Arch Linux)  (format=lualatex 2017.10.31)  9 OCT 2019 17:13
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.240 seconds
+luaotfload | main : initialization completed in 0.237 seconds
 Babel <3.12> and hyphenation patterns for 1 language(s) loaded.
 (/usr/share/texmf-dist/tex/latex/memoir/memoir.cls
 Document Class: memoir 2016/05/16 v3.7f configurable book, report, article docum
@@ -1755,18 +1755,10 @@ Overfull \vbox (5.6239pt too high) has occurred while \output is active []
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 189.
  [27] [28] [29] [30] [31] [32] [33] [34] [35] [36] [37]
-[38] [39] [40]
-Overfull \hbox (16.80905pt too wide) in paragraph at lines 726--729
-\TU/LinuxLibertineO(0)/m/n/12 28/02/2019, dis-po-ní-vel em \TU/LinuxLibertineO
-(0)/m/it/12 Ói-di-pous, fi-lho de Laios\TU/LinuxLibertineO(0)/m/n/12 : <\TU/Li
-nuxLibertineO(0)/m/it/12 https://bit.ly/2kIJDwo\TU/LinuxLibertineO(0)/m/n/12 >.
- 
- []
+[38] [39] [40] [41] [42] [43
 
-[41] [42] [43
-
-] [44] [45] [46] [47] [48] [49] [50] [51] [52] [53] [54] [55])
-(./PART2.tex [56] [57
+] [44] [45] [46] [47] [48] [49] [50] [51] [52]
+[53] [54] [55]) (./PART2.tex [56] [57
 
 ] [58]
 Overfull \vbox (10.98177pt too high) has occurred while \output is active []
@@ -1797,17 +1789,10 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 915.
  [85] [86] [87] [88] [89]
 [90] [91] [92] [93] [94] [95] [96] [97] [98] [99] [100] [101] [102] [103]
-[104] [105] [106] [107] [108] [109] [110] [111]
-Overfull \hbox (59.38097pt too wide) in paragraph at lines 1930--1932
-[]\TU/LinuxLibertineO(0)/m/n/12 bell ho-oks. Un-ders-tan-ding pa-tri-ar-chy. Di
-s-po-ní-vel em: <\TU/LinuxLibertineO(0)/m/it/12 https://bit.ly/2m2cOuE\TU/Linu
-xLibertineO(0)/m/n/12 >. 
- []
-
-[112] [113] [114
+[104] [105] [106] [107] [108] [109] [110] [111] [112] [113] [114
 
 ]
-Overfull \vbox (3.92299pt too high) has occurred while \output is active []
+Overfull \vbox (3.94699pt too high) has occurred while \output is active []
 
 
 [115]
@@ -1831,7 +1816,7 @@ Overfull \vbox (7.83105pt too high) has occurred while \output is active []
 
 
 [130]
-Overfull \vbox (12.24799pt too high) has occurred while \output is active []
+Overfull \vbox (12.60799pt too high) has occurred while \output is active []
 
 
 [131] [132] [133] [134] [135] [136] [137] [138
@@ -2323,9 +2308,9 @@ Here is how much of LuaTeX's memory you used:
    4 hlist, 1 vlist, 1 rule, 220 glue, 1 penalty, 888 attribute, 195 glue_spec, 
 222 attribute_list, 3 shape, 2 write nodes
    avail lists: 1:2,2:3317,3:251,4:133,5:522,6:5328,7:1521,8:76,9:357,10:32,11:7
-68
+67
  27365 multiletter control sequences out of 65536+600000
- 127 fonts using 24236911 bytes
+ 127 fonts using 24236767 bytes
  50i,14n,70p,1369b,571s stack positions out of 5000i,500n,10000p,200000b,100000s
 </usr/share/texmf-dist/fonts/opentype/public/libertine/LinLibertine_RBI.otf>{/us
 r/share/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}{/usr/share/texmf-dis
@@ -2335,7 +2320,7 @@ LinLibertine_RB.otf></usr/share/texmf-dist/fonts/opentype/public/libertine/LinLi
 bertine_R.otf></usr/share/texmf-dist/fonts/type1/arkandis/adforn/OrnementsADF.pf
 b></usr/share/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcirclew.pfb></usr
 /share/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
-Output written on LIVRO.pdf (390 pages, 1304585 bytes).
+Output written on LIVRO.pdf (390 pages, 1306757 bytes).
 
 PDF statistics: 1271 PDF objects out of 1440 (max. 8388607)
  852 compressed objects within 9 object streams
