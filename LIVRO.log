@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Arch Linux)  (format=lualatex 2017.10.31)  10 OCT 2019 17:18
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Arch Linux)  (format=lualatex 2017.10.31)  10 OCT 2019 18:39
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.275 seconds
+luaotfload | main : initialization completed in 0.242 seconds
 Babel <3.12> and hyphenation patterns for 1 language(s) loaded.
 (/usr/share/texmf-dist/tex/latex/memoir/memoir.cls
 Document Class: memoir 2016/05/16 v3.7f configurable book, report, article docum
@@ -2052,13 +2052,13 @@ Overfull \vbox (12.65599pt too high) has occurred while \output is active []
 
 
 [283]
-<./img1.jpg, id=892, pagebox=cropbox, 222.8325pt x 227.85126pt>
+<./img1.jpg, id=891, pagebox=cropbox, 222.8325pt x 227.85126pt>
 File: ./img1.jpg Graphic file (type jpg)
 <use ./img1.jpg>
 Package luatex.def Info: ./img1.jpg  used on input line 651. on input line 651.
 Package luatex.def Info: Requested size: 149.30719pt x 152.72212pt on input line
  651.
-<./img2.jpg, id=893, pagebox=cropbox, 451.6875pt x 365.86688pt>
+<./img2.jpg, id=892, pagebox=cropbox, 451.6875pt x 365.86688pt>
 File: ./img2.jpg Graphic file (type jpg)
 <use ./img2.jpg>
 Package luatex.def Info: ./img2.jpg  used on input line 662. on input line 662.
@@ -2312,28 +2312,27 @@ Underfull \hbox (badness 10000) in paragraph at lines 6--8
  (./LIVRO.aux (./INPUTS.aux) (./PUBLICIDADE.aux)))
 
 Here is how much of LuaTeX's memory you used:
- 24506 strings out of 494472
+ 24501 strings out of 494472
  100000,794899 words of node,token memory allocated
  4607 words of node memory still in use:
    4 hlist, 1 vlist, 1 rule, 204 glue, 1 penalty, 824 attribute, 195 glue_spec, 
 206 attribute_list, 3 shape, 2 write nodes
    avail lists: 1:2,2:3317,3:251,4:133,5:490,6:5068,7:1521,8:76,9:357,10:32,11:7
 67
- 27365 multiletter control sequences out of 65536+600000
- 127 fonts using 24236911 bytes
+ 27363 multiletter control sequences out of 65536+600000
+ 126 fonts using 23962415 bytes
  50i,14n,70p,1369b,571s stack positions out of 5000i,500n,10000p,200000b,100000s
-</usr/share/texmf-dist/fonts/opentype/public/libertine/LinLibertine_RBI.otf>{/us
-r/share/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}{/usr/share/texmf-dis
-t/fonts/enc/dvips/base/8r.enc}</usr/share/texmf-dist/fonts/opentype/public/liber
-tine/LinLibertine_RI.otf></usr/share/texmf-dist/fonts/opentype/public/libertine/
-LinLibertine_RB.otf></usr/share/texmf-dist/fonts/opentype/public/libertine/LinLi
-bertine_R.otf></usr/share/texmf-dist/fonts/type1/arkandis/adforn/OrnementsADF.pf
-b></usr/share/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcirclew.pfb></usr
-/share/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
-Output written on LIVRO.pdf (392 pages, 1309419 bytes).
+{/usr/share/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}{/usr/share/texmf
+-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texmf-dist/fonts/opentype/public/l
+ibertine/LinLibertine_RI.otf></usr/share/texmf-dist/fonts/opentype/public/libert
+ine/LinLibertine_RB.otf></usr/share/texmf-dist/fonts/opentype/public/libertine/L
+inLibertine_R.otf></usr/share/texmf-dist/fonts/type1/arkandis/adforn/OrnementsAD
+F.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcirclew.pfb><
+/usr/share/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
+Output written on LIVRO.pdf (392 pages, 1305493 bytes).
 
-PDF statistics: 1278 PDF objects out of 1440 (max. 8388607)
- 857 compressed objects within 9 object streams
+PDF statistics: 1271 PDF objects out of 1440 (max. 8388607)
+ 853 compressed objects within 9 object streams
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
