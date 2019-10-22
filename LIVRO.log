@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Arch Linux)  (format=lualatex 2017.10.31)  22 OCT 2019 18:14
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Arch Linux)  (format=lualatex 2017.10.31)  22 OCT 2019 18:33
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.242 seconds
+luaotfload | main : initialization completed in 0.233 seconds
 Babel <3.12> and hyphenation patterns for 1 language(s) loaded.
 (/usr/share/texmf-dist/tex/latex/memoir/memoir.cls
 Document Class: memoir 2016/05/16 v3.7f configurable book, report, article docum
@@ -1823,33 +1823,22 @@ Overfull \vbox (12.60799pt too high) has occurred while \output is active []
 
 ] [139] [140] [141] [142]
 [143] [144]
-Overfull \vbox (12.15602pt too high) has occurred while \output is active []
+Overfull \vbox (14.60802pt too high) has occurred while \output is active []
 
 
-[145]
-Overfull \vbox (9.736pt too high) has occurred while \output is active []
-
- [146]
+[145] [146]
 Overfull \vbox (14.60799pt too high) has occurred while \output is active []
 
 
-[147] [148] [149]
-Overfull \vbox (1.04524pt too high) has occurred while \output is active []
-
-
-[150]
-Overfull \vbox (12.60799pt too high) has occurred while \output is active []
-
-
-[151] [152]
+[147] [148] [149] [150]
 Overfull \vbox (12.65599pt too high) has occurred while \output is active []
 
 
-[153] [154]
-Overfull \vbox (12.60799pt too high) has occurred while \output is active []
+[151]
+Overfull \vbox (15.70403pt too high) has occurred while \output is active []
 
 
-[155]
+[152] [153] [154] [155]
 Overfull \vbox (4.39497pt too high) has occurred while \output is active []
 
 
@@ -1979,11 +1968,7 @@ Overfull \vbox (12.15602pt too high) has occurred while \output is active []
 
 [244] [245] [246] [247] [248] [249] [250] [251] [252
 
-]
-Overfull \vbox (10.62387pt too high) has occurred while \output is active []
-
-
-[253] [254]
+] [253] [254]
 Overfull \vbox (5.10799pt too high) has occurred while \output is active []
 
 
@@ -2180,16 +2165,20 @@ Overfull \vbox (2.15634pt too high) has occurred while \output is active []
 Overfull \vbox (7.65599pt too high) has occurred while \output is active []
 
 
-[339] [340] [341]
-Overfull \vbox (19.65602pt too high) has occurred while \output is active []
+[339] [340]
+Overfull \vbox (10.15599pt too high) has occurred while \output is active []
+
+
+[341]
+Overfull \vbox (5.15602pt too high) has occurred while \output is active []
 
 
 [342]
-Overfull \vbox (15.25412pt too high) has occurred while \output is active []
+Overfull \vbox (14.31033pt too high) has occurred while \output is active []
 
 
 [343] [344]
-Overfull \vbox (18.73097pt too high) has occurred while \output is active []
+Overfull \vbox (4.23097pt too high) has occurred while \output is active []
 
 
 [345]
@@ -2273,7 +2262,7 @@ Overfull \vbox (19.65599pt too high) has occurred while \output is active []
 
 
 [384]
-Overfull \vbox (20.27496pt too high) has occurred while \output is active []
+Overfull \vbox (20.68297pt too high) has occurred while \output is active []
 
 
 [385] [386] [387]
@@ -2281,7 +2270,7 @@ Overfull \vbox (19.15599pt too high) has occurred while \output is active []
 
 
 [388]
-Overfull \vbox (2.65599pt too high) has occurred while \output is active []
+Overfull \vbox (14.456pt too high) has occurred while \output is active []
 
 
 [389] [390])) [391] 
@@ -2325,7 +2314,7 @@ ine/LinLibertine_RB.otf></usr/share/texmf-dist/fonts/opentype/public/libertine/L
 inLibertine_R.otf></usr/share/texmf-dist/fonts/type1/arkandis/adforn/OrnementsAD
 F.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcirclew.pfb><
 /usr/share/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
-Output written on LIVRO.pdf (396 pages, 1314639 bytes).
+Output written on LIVRO.pdf (396 pages, 1313732 bytes).
 
 PDF statistics: 1283 PDF objects out of 1440 (max. 8388607)
  861 compressed objects within 9 object streams
