@@ -53,37 +53,38 @@
 \contentsline {section}{bibliografia}{222}
 \contentsline {part}{Contra o mestre: Freud em atrito com as ideias de seus contemporâneos}{227}
 \contentsline {chapter}{O patriarcado entre Sigmund Freud e Otto Gross,\\ \relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip \emph {por Marcelo Amorim Checchia}}{229}
-\contentsline {section}{Primeira escovada: o conceito de patriarcado na obra freudiana}{230}
-\contentsline {section}{Segunda escovada: quem foi Otto Gross? }{233}
-\contentsline {section}{Terceira escovada: como e porque Otto Gross foi segregado e esquecido?\footnote {\uppercase {U}m pente fino a contrapelo foi passado nessa história em ``\uppercase {O}tto \uppercase {G}ross: um caso de segregação e esquecimento na história da psicanálise''.}}{242}
-\contentsline {section}{Quarta escovada: a estrutura e a violência do patriarcado está disseminada nas comunidades psicanalíticas}{247}
-\contentsline {chapter}{Apontamentos ferenczianos para a atualidade da psicanálise,\\ \relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip \emph {por Paula Peron}}{251}
-\contentsline {section}{Muito além do principio da razão fálica }{254}
-\contentsline {section}{Estratégias de resistência e horizontalidade -- muito além do princípio de organização fálica }{259}
-\contentsline {section}{Palavras finais}{263}
-\contentsline {section}{Bibliografia}{264}
-\contentsline {part}{De Freud aos debates atuais:\\ psicanálise e feminismo}{267}
-\contentsline {chapter}{Introdução à \emph {Feminine sexuality}, \relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip \emph {por Jacqueline Rose}}{269}
-\contentsline {section}{I}{273}
-\contentsline {section}{II}{290}
-\contentsline {section}{Referências bibliográficas}{304}
-\contentsline {chapter}{Imposições sexuais e diferenças entre os sexos: bruxas, \emph {femmes seules}, solteironas e Sigmund Freud, \relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip \emph {por Beatriz Santos}}{309}
-\contentsline {section}{A heterossexualidade como instituição}{311}
-\contentsline {section}{Diferenças anatômicas, consequências psíquicas}{313}
-\contentsline {section}{Uma diferença de sexos}{318}
-\contentsline {section}{Bibliografia}{321}
-\contentsline {chapter}{Simbolicismo e circularidade fálica: em torno da crítica de Nancy Fraser ao ``lacanismo'', \relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip \emph {por Léa Silveira}}{323}
-\contentsline {section}{Referências bibliográficas}{343}
-\contentsline {chapter}{Sobre o declínio da autoridade paterna: uma discussão entre teoria crítica e psicanalistas feministas, \relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip \emph {por Virginia Helena Ferreira da Costa}}{347}
-\contentsline {section}{Introdução}{347}
-\contentsline {section}{Contexto de discussão: o declínio da autoridade paterna }{348}
-\contentsline {section}{Lasch \emph {versus} teóricas feministas: uma crítica ao apego ao patriarcado}{355}
-\contentsline {section}{A objetificação da mulher em Freud e uma saída feminista}{358}
-\contentsline {section}{Considerações finais}{364}
-\contentsline {section}{Referências bibliográficas}{365}
-\contentsline {chapter}{Sequelas patriarcalistas em Freud segundo Luce Irigaray: sexualidade feminina e diferença sexual, \relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip \emph {por Rafael Kalaf Cossi}}{369}
-\contentsline {section}{Introdução}{369}
-\contentsline {section}{Em combate ao \emph {um} sexo}{376}
-\contentsline {section}{Plano de ação}{383}
-\contentsline {section}{REFERÊNCIAS}{388}
+\contentsline {section}{Primeira escovada: o conceito de patriarcado~na~obra~freudiana}{230}
+\contentsline {section}{Segunda escovada: quem foi Otto Gross?}{233}
+\contentsline {section}{Terceira escovada: como e porque Otto~Gross~foi~segregado~e~esquecido?\footnote {\uppercase {U}m pente fino a contrapelo foi passado nessa história em ``\uppercase {O}tto \uppercase {G}ross: um caso de segregação e esquecimento na história da psicanálise''.}}{242}
+\contentsline {section}{Quarta~escovada:~a~estrutura~e~a~violência do~patriarcado~está~disseminada nas~comunidades~psicanalíticas}{247}
+\contentsline {section}{Bibliografia}{249}
+\contentsline {chapter}{Apontamentos ferenczianos para a atualidade da psicanálise,\\ \relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip \emph {por Paula Peron}}{253}
+\contentsline {section}{Muito além do principio da razão fálica }{256}
+\contentsline {section}{Estratégias de resistência e horizontalidade -- muito além do princípio de organização fálica }{261}
+\contentsline {section}{Palavras finais}{265}
+\contentsline {section}{Bibliografia}{266}
+\contentsline {part}{De Freud aos debates atuais:\\ psicanálise e feminismo}{269}
+\contentsline {chapter}{Introdução à \emph {Feminine sexuality}, \relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip \emph {por Jacqueline Rose}}{271}
+\contentsline {section}{I}{275}
+\contentsline {section}{II}{292}
+\contentsline {section}{Referências bibliográficas}{306}
+\contentsline {chapter}{Imposições sexuais e diferenças entre os sexos: bruxas, \emph {femmes seules}, solteironas e Sigmund Freud, \relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip \emph {por Beatriz Santos}}{311}
+\contentsline {section}{A heterossexualidade como instituição}{313}
+\contentsline {section}{Diferenças anatômicas, consequências psíquicas}{315}
+\contentsline {section}{Uma diferença de sexos}{320}
+\contentsline {section}{Bibliografia}{323}
+\contentsline {chapter}{Simbolicismo e circularidade fálica: em torno da crítica de Nancy Fraser ao ``lacanismo'', \relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip \emph {por Léa Silveira}}{325}
+\contentsline {section}{Referências bibliográficas}{345}
+\contentsline {chapter}{Sobre o declínio da autoridade paterna: uma discussão entre teoria crítica e psicanalistas feministas, \relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip \emph {por Virginia Helena Ferreira da Costa}}{349}
+\contentsline {section}{Introdução}{349}
+\contentsline {section}{Contexto de discussão: o declínio da autoridade paterna }{350}
+\contentsline {section}{Lasch \emph {versus} teóricas feministas: uma crítica ao apego ao patriarcado}{357}
+\contentsline {section}{A objetificação da mulher em Freud e uma saída feminista}{360}
+\contentsline {section}{Considerações finais}{366}
+\contentsline {section}{Referências bibliográficas}{367}
+\contentsline {chapter}{Sequelas patriarcalistas em Freud segundo Luce Irigaray: sexualidade feminina e diferença sexual, \relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip \emph {por Rafael Kalaf Cossi}}{371}
+\contentsline {section}{Introdução}{371}
+\contentsline {section}{Em combate ao \emph {um} sexo}{378}
+\contentsline {section}{Plano de ação}{385}
+\contentsline {section}{REFERÊNCIAS}{390}
 \contentsfinish 
