@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Arch Linux)  (format=lualatex 2017.10.31)  22 OCT 2019 18:33
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Arch Linux)  (format=lualatex 2017.10.31)  23 OCT 2019 17:38
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.233 seconds
+luaotfload | main : initialization completed in 0.240 seconds
 Babel <3.12> and hyphenation patterns for 1 language(s) loaded.
 (/usr/share/texmf-dist/tex/latex/memoir/memoir.cls
 Document Class: memoir 2016/05/16 v3.7f configurable book, report, article docum
@@ -2302,10 +2302,10 @@ Here is how much of LuaTeX's memory you used:
  4590 words of node memory still in use:
    4 hlist, 1 vlist, 1 rule, 203 glue, 1 penalty, 820 attribute, 195 glue_spec, 
 205 attribute_list, 3 shape, 2 write nodes
-   avail lists: 1:2,2:3317,3:251,4:133,5:491,6:5068,7:1522,8:76,9:357,10:32,11:7
+   avail lists: 1:2,2:3317,3:251,4:133,5:491,6:5096,7:1522,8:76,9:357,10:32,11:7
 67
  27364 multiletter control sequences out of 65536+600000
- 126 fonts using 23962487 bytes
+ 126 fonts using 23962271 bytes
  50i,14n,70p,1369b,571s stack positions out of 5000i,500n,10000p,200000b,100000s
 {/usr/share/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}{/usr/share/texmf
 -dist/fonts/enc/dvips/base/8r.enc}</usr/share/texmf-dist/fonts/opentype/public/l
@@ -2314,7 +2314,7 @@ ine/LinLibertine_RB.otf></usr/share/texmf-dist/fonts/opentype/public/libertine/L
 inLibertine_R.otf></usr/share/texmf-dist/fonts/type1/arkandis/adforn/OrnementsAD
 F.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcirclew.pfb><
 /usr/share/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
-Output written on LIVRO.pdf (396 pages, 1313732 bytes).
+Output written on LIVRO.pdf (396 pages, 1314884 bytes).
 
 PDF statistics: 1283 PDF objects out of 1440 (max. 8388607)
  861 compressed objects within 9 object streams

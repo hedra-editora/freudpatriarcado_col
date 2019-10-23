@@ -59,10 +59,10 @@
 \contentsline {section}{Quarta~escovada:~a~estrutura~e~a~violência do~patriarcado~está~disseminada nas~comunidades~psicanalíticas}{247}
 \contentsline {section}{Bibliografia}{249}
 \contentsline {chapter}{Apontamentos ferenczianos para a atualidade da psicanálise,\\ \relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip \emph {por Paula Peron}}{253}
-\contentsline {section}{Muito além do principio da razão fálica }{256}
+\contentsline {section}{Muito além do princípio da razão fálica }{256}
 \contentsline {section}{Estratégias de resistência e horizontalidade -- muito além do princípio de organização fálica }{261}
 \contentsline {section}{Palavras finais}{265}
-\contentsline {section}{Bibliografia}{266}
+\contentsline {section}{Bibliografia}{267}
 \contentsline {part}{De Freud aos debates atuais:\\ psicanálise e feminismo}{269}
 \contentsline {chapter}{Introdução à \emph {Feminine sexuality}, \relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip \emph {por Jacqueline Rose}}{271}
 \contentsline {section}{I}{275}
