@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Arch Linux)  (format=lualatex 2017.10.31)  23 OCT 2019 17:38
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Arch Linux)  (format=lualatex 2017.10.31)  23 OCT 2019 18:47
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.240 seconds
+luaotfload | main : initialization completed in 0.239 seconds
 Babel <3.12> and hyphenation patterns for 1 language(s) loaded.
 (/usr/share/texmf-dist/tex/latex/memoir/memoir.cls
 Document Class: memoir 2016/05/16 v3.7f configurable book, report, article docum
@@ -2005,7 +2005,7 @@ Overfull \vbox (18.73097pt too high) has occurred while \output is active []
 
 
 [275] [276]
-Overfull \vbox (9.15599pt too high) has occurred while \output is active []
+Overfull \vbox (8.69998pt too high) has occurred while \output is active []
 
 
 [277]
@@ -2016,16 +2016,12 @@ Overfull \vbox (7.65599pt too high) has occurred while \output is active []
 Overfull \vbox (10.15599pt too high) has occurred while \output is active []
 
 
-[281] [282]
-Overfull \vbox (9.55202pt too high) has occurred while \output is active []
-
-
-[283]
-Overfull \vbox (9.74803pt too high) has occurred while \output is active []
+[281] [282] [283]
+Overfull \vbox (5.50003pt too high) has occurred while \output is active []
 
 
 [284] [285]
-Overfull \vbox (5.10799pt too high) has occurred while \output is active []
+Overfull \vbox (19.65599pt too high) has occurred while \output is active []
 
 
 [286]
@@ -2046,19 +2042,15 @@ Package luatex.def Info: ./img2.jpg  used on input line 662. on input line 662.
 Package luatex.def Info: Requested size: 124.76236pt x 101.5767pt on input line 
 662.
  [288<./img1.jpg><./img2.jpg>] [289]
-Overfull \vbox (16.90399pt too high) has occurred while \output is active []
+Overfull \vbox (12.60799pt too high) has occurred while \output is active []
 
 
-[290]
-Overfull \vbox (16.60799pt too high) has occurred while \output is active []
-
-
-[291] [292]
-Overfull \vbox (14.60802pt too high) has occurred while \output is active []
+[290] [291] [292]
+Overfull \vbox (0.10802pt too high) has occurred while \output is active []
 
 
 [293] [294]
-Overfull \vbox (14.60802pt too high) has occurred while \output is active []
+Overfull \vbox (0.15602pt too high) has occurred while \output is active []
 
 
 [295] [296]
@@ -2182,7 +2174,7 @@ Overfull \vbox (4.23097pt too high) has occurred while \output is active []
 
 
 [345]
-Underfull \hbox (badness 2469) in paragraph at lines 2801--2803
+Underfull \hbox (badness 2469) in paragraph at lines 2803--2805
 []\TU/LinuxLibertineO(0)/m/sc/12 \TU/LinuxLibertineO(0)/m/n/1
 2 , Jac-ques. (1975) \TU/LinuxLibertineO(0)/m/it/12 Se-mi-ná-rio, li-vro 20: M
 ais, ainda\TU/LinuxLibertineO(0)/m/n/12 .
@@ -2297,16 +2289,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 6--8
  (./LIVRO.aux (./INPUTS.aux) (./PUBLICIDADE.aux)))
 
 Here is how much of LuaTeX's memory you used:
- 24502 strings out of 494472
+ 24505 strings out of 494472
  100000,794899 words of node,token memory allocated
  4590 words of node memory still in use:
    4 hlist, 1 vlist, 1 rule, 203 glue, 1 penalty, 820 attribute, 195 glue_spec, 
 205 attribute_list, 3 shape, 2 write nodes
    avail lists: 1:2,2:3317,3:251,4:133,5:491,6:5096,7:1522,8:76,9:357,10:32,11:7
 67
- 27364 multiletter control sequences out of 65536+600000
- 126 fonts using 23962271 bytes
- 50i,14n,70p,1369b,571s stack positions out of 5000i,500n,10000p,200000b,100000s
+ 27366 multiletter control sequences out of 65536+600000
+ 127 fonts using 24390843 bytes
+ 50i,14n,70p,1369b,582s stack positions out of 5000i,500n,10000p,200000b,100000s
 {/usr/share/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}{/usr/share/texmf
 -dist/fonts/enc/dvips/base/8r.enc}</usr/share/texmf-dist/fonts/opentype/public/l
 ibertine/LinLibertine_RI.otf></usr/share/texmf-dist/fonts/opentype/public/libert
@@ -2314,7 +2306,7 @@ ine/LinLibertine_RB.otf></usr/share/texmf-dist/fonts/opentype/public/libertine/L
 inLibertine_R.otf></usr/share/texmf-dist/fonts/type1/arkandis/adforn/OrnementsAD
 F.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcirclew.pfb><
 /usr/share/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
-Output written on LIVRO.pdf (396 pages, 1314884 bytes).
+Output written on LIVRO.pdf (396 pages, 1315599 bytes).
 
 PDF statistics: 1283 PDF objects out of 1440 (max. 8388607)
  861 compressed objects within 9 object streams
