@@ -68,9 +68,9 @@
 \contentsline {section}{I}{275}
 \contentsline {section}{II}{292}
 \contentsline {section}{Bibliografia}{306}
-\contentsline {chapter}{Imposições sexuais e diferenças entre os sexos: bruxas, \emph {femmes seules}, solteironas e Sigmund Freud, \relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip \emph {por Beatriz Santos}}{311}
-\contentsline {section}{A heterossexualidade como instituição}{313}
-\contentsline {section}{Diferenças anatômicas, consequências psíquicas}{315}
+\contentsline {chapter}{Imposições sexuais e diferenças entre os sexos: bruxas, \emph {femmes seules}, solteironas e Freud, \relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip \emph {por Beatriz Santos}}{311}
+\contentsline {section}{A heterossexualidade como instituição}{312}
+\contentsline {section}{Diferenças anatômicas, consequências psíquicas}{314}
 \contentsline {section}{Uma diferença de sexos}{320}
 \contentsline {section}{Bibliografia}{323}
 \contentsline {chapter}{Simbolicismo e circularidade fálica: em torno da crítica de Nancy Fraser ao ``lacanismo'', \relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip \emph {por Léa Silveira}}{325}
