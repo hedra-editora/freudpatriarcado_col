@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Arch Linux)  (format=lualatex 2017.10.31)  23 OCT 2019 18:47
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Arch Linux)  (format=lualatex 2017.10.31)  24 OCT 2019 16:38
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.239 seconds
+luaotfload | main : initialization completed in 0.232 seconds
 Babel <3.12> and hyphenation patterns for 1 language(s) loaded.
 (/usr/share/texmf-dist/tex/latex/memoir/memoir.cls
 Document Class: memoir 2016/05/16 v3.7f configurable book, report, article docum
@@ -2045,8 +2045,12 @@ Package luatex.def Info: Requested size: 124.76236pt x 101.5767pt on input line
 Overfull \vbox (12.60799pt too high) has occurred while \output is active []
 
 
-[290] [291] [292]
-Overfull \vbox (0.10802pt too high) has occurred while \output is active []
+[290] [291]
+Overfull \vbox (8.39653pt too high) has occurred while \output is active []
+
+
+[292]
+Overfull \vbox (14.65602pt too high) has occurred while \output is active []
 
 
 [293] [294]
@@ -2174,7 +2178,7 @@ Overfull \vbox (4.23097pt too high) has occurred while \output is active []
 
 
 [345]
-Underfull \hbox (badness 2469) in paragraph at lines 2803--2805
+Underfull \hbox (badness 2469) in paragraph at lines 2789--2791
 []\TU/LinuxLibertineO(0)/m/sc/12 \TU/LinuxLibertineO(0)/m/n/1
 2 , Jac-ques. (1975) \TU/LinuxLibertineO(0)/m/it/12 Se-mi-ná-rio, li-vro 20: M
 ais, ainda\TU/LinuxLibertineO(0)/m/n/12 .
@@ -2306,7 +2310,7 @@ ine/LinLibertine_RB.otf></usr/share/texmf-dist/fonts/opentype/public/libertine/L
 inLibertine_R.otf></usr/share/texmf-dist/fonts/type1/arkandis/adforn/OrnementsAD
 F.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcirclew.pfb><
 /usr/share/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
-Output written on LIVRO.pdf (396 pages, 1315599 bytes).
+Output written on LIVRO.pdf (396 pages, 1315576 bytes).
 
 PDF statistics: 1283 PDF objects out of 1440 (max. 8388607)
  861 compressed objects within 9 object streams
