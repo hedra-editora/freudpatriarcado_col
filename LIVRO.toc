@@ -74,7 +74,7 @@
 \contentsline {section}{Uma diferença de sexos}{320}
 \contentsline {section}{Bibliografia}{323}
 \contentsline {chapter}{Simbolicismo e circularidade fálica: em torno da crítica de Nancy Fraser ao ``lacanismo'', \relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip \emph {por Léa Silveira}}{325}
-\contentsline {section}{Referências bibliográficas}{345}
+\contentsline {section}{Bibliografia}{346}
 \contentsline {chapter}{Sobre o declínio da autoridade paterna: uma discussão entre teoria crítica e psicanalistas feministas, \relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip \emph {por Virginia Helena Ferreira da Costa}}{349}
 \contentsline {section}{Introdução}{349}
 \contentsline {section}{Contexto de discussão: o declínio da autoridade paterna }{350}

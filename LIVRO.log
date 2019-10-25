@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Arch Linux)  (format=lualatex 2017.10.31)  24 OCT 2019 18:07
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Arch Linux)  (format=lualatex 2017.10.31)  25 OCT 2019 17:09
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.234 seconds
+luaotfload | main : initialization completed in 0.240 seconds
 Babel <3.12> and hyphenation patterns for 1 language(s) loaded.
 (/usr/share/texmf-dist/tex/latex/memoir/memoir.cls
 Document Class: memoir 2016/05/16 v3.7f configurable book, report, article docum
@@ -2110,14 +2110,18 @@ Overfull \vbox (7.47899pt too high) has occurred while \output is active []
 [320] [321] [322] [323] [324
 
 ]
-Overfull \vbox (5.46504pt too high) has occurred while \output is active []
+Overfull \vbox (4.46004pt too high) has occurred while \output is active []
 
 
 [325]
 Overfull \vbox (20.65015pt too high) has occurred while \output is active []
 
 
-[326] [327] [328] [329]
+[326]
+Overfull \vbox (11.70404pt too high) has occurred while \output is active []
+
+
+[327] [328] [329]
 Overfull \vbox (11.65599pt too high) has occurred while \output is active []
 
 
@@ -2126,7 +2130,7 @@ Overfull \vbox (10.10799pt too high) has occurred while \output is active []
 
 
 [332]
-Overfull \vbox (14.65599pt too high) has occurred while \output is active []
+Overfull \vbox (14.60799pt too high) has occurred while \output is active []
 
 
 [333] [334]
@@ -2149,18 +2153,7 @@ Overfull \vbox (5.15602pt too high) has occurred while \output is active []
 Overfull \vbox (14.31033pt too high) has occurred while \output is active []
 
 
-[343] [344]
-Overfull \vbox (4.23097pt too high) has occurred while \output is active []
-
-
-[345]
-Underfull \hbox (badness 2469) in paragraph at lines 2759--2761
-[]\TU/LinuxLibertineO(0)/m/sc/12 \TU/LinuxLibertineO(0)/m/n/1
-2 , Jac-ques. (1975) \TU/LinuxLibertineO(0)/m/it/12 Se-mi-ná-rio, li-vro 20: M
-ais, ainda\TU/LinuxLibertineO(0)/m/n/12 .
- []
-
-[346] [347] [348] [349
+[343] [344] [345] [346] [347] [348] [349
 
 ] [350]
 Overfull \vbox (12.65599pt too high) has occurred while \output is active []
@@ -2269,15 +2262,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 6--8
  (./LIVRO.aux (./INPUTS.aux) (./PUBLICIDADE.aux)))
 
 Here is how much of LuaTeX's memory you used:
- 24505 strings out of 494472
+ 24500 strings out of 494472
  100000,794899 words of node,token memory allocated
- 4301 words of node memory still in use:
-   4 hlist, 1 vlist, 1 rule, 186 glue, 1 penalty, 752 attribute, 195 glue_spec, 
-188 attribute_list, 3 shape, 2 write nodes
-   avail lists: 1:2,2:3317,3:251,4:133,5:493,6:5096,7:1539,8:76,9:357,10:32,11:7
+ 4284 words of node memory still in use:
+   4 hlist, 1 vlist, 1 rule, 185 glue, 1 penalty, 748 attribute, 195 glue_spec, 
+187 attribute_list, 3 shape, 2 write nodes
+   avail lists: 1:2,2:3317,3:251,4:133,5:493,6:5096,7:1540,8:76,9:357,10:32,11:7
 67
- 27366 multiletter control sequences out of 65536+600000
- 127 fonts using 24390691 bytes
+ 27364 multiletter control sequences out of 65536+600000
+ 126 fonts using 24007643 bytes
  50i,14n,70p,1369b,582s stack positions out of 5000i,500n,10000p,200000b,100000s
 {/usr/share/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}{/usr/share/texmf
 -dist/fonts/enc/dvips/base/8r.enc}</usr/share/texmf-dist/fonts/opentype/public/l
@@ -2286,7 +2279,7 @@ ine/LinLibertine_RB.otf></usr/share/texmf-dist/fonts/opentype/public/libertine/L
 inLibertine_R.otf></usr/share/texmf-dist/fonts/type1/arkandis/adforn/OrnementsAD
 F.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcirclew.pfb><
 /usr/share/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
-Output written on LIVRO.pdf (396 pages, 1314014 bytes).
+Output written on LIVRO.pdf (396 pages, 1313847 bytes).
 
 PDF statistics: 1283 PDF objects out of 1440 (max. 8388607)
  861 compressed objects within 9 object streams
