@@ -15,7 +15,7 @@
 \contentsline {section}{Identificações masculinas: de José a Moisés}{65}
 \contentsline {section}{O sonho da injeção de Irma}{70}
 \contentsline {section}{Ruptura e sonho}{80}
-\contentsline {section}{Referências}{82}
+\contentsline {section}{Bibliografia}{82}
 \contentsline {chapter}{Por uma leitura reparadora do destino das mulheres criado pela psicanálise: de volta à Sociedade das Quartas"-Feiras,\\ \relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip \emph {por Aline de Souza Martins e Lívia Santiago Moreira}}{85}
 \contentsline {section}{Atas~da~Sociedade~Psicanalítica~de~Viena: mulheres~fazendo~os~biscoitos~enquanto os~homens~discutem~coisas~sérias}{90}
 \contentsline {section}{Destinos do Édipo}{96}
@@ -30,7 +30,7 @@
 \contentsline {section}{Homossexualidade feminina, promiscuidade e pele}{126}
 \contentsline {section}{Freud interseccional: Revisitando a psicogênese de~um~caso de homossexualidade numa mulher}{130}
 \contentsline {section}{Conclusão}{134}
-\contentsline {section}{Bibliografia}{135}
+\contentsline {section}{Bibliografia}{136}
 \contentsline {chapter}{Fricção entre corpo e palavra: crítica ao \emph {Moisés} de Freud e Lacan,\\ \relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip \emph {por Alessandra Parente}}{139}
 \contentsline {section}{Das tripas, coração}{143}
 \contentsline {section}{\textsc {\MakeTextLowercase {YHWY}} e o Nome-do-Pai}{149}
@@ -50,7 +50,7 @@
 \contentsline {chapter}{Freud e o conhecimento-do-corpo: viajando pelos limites da linguagem via angústia, \relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip \emph {por Ana Carolina Minozzo}}{207}
 \contentsline {section}{Um retorno ao Freud dos primórdios}{209}
 \contentsline {section}{Um excesso afirmativo}{216}
-\contentsline {section}{bibliografia}{224}
+\contentsline {section}{bibliografia}{225}
 \contentsline {part}{Contra o mestre: Freud em atrito com as ideias de seus contemporâneos}{229}
 \contentsline {chapter}{O patriarcado entre Sigmund Freud e Otto Gross,\\ \relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip \emph {por Marcelo Amorim Checchia}}{231}
 \contentsline {section}{Primeira escovada: o conceito de patriarcado~na~obra~freudiana}{232}
@@ -86,5 +86,5 @@
 \contentsline {section}{Introdução}{374}
 \contentsline {section}{Em combate ao \emph {um} sexo}{380}
 \contentsline {section}{Plano de ação}{387}
-\contentsline {section}{REFERÊNCIAS}{392}
+\contentsline {section}{Bibliografia}{392}
 \contentsfinish 
