@@ -55,9 +55,9 @@
 \contentsline {chapter}{O patriarcado entre Sigmund Freud e Otto Gross,\\ \relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip \emph {por Marcelo Amorim Checchia}}{231}
 \contentsline {section}{Primeira escovada: o conceito de patriarcado~na~obra~freudiana}{232}
 \contentsline {section}{Segunda escovada: quem foi Otto Gross?}{235}
-\contentsline {section}{Terceira escovada: como e porque Otto~Gross~foi~segregado~e~esquecido?\footnote {\uppercase {U}m pente fino a contrapelo foi passado nessa história em ``\uppercase {O}tto \uppercase {G}ross: um caso de segregação e esquecimento na história da psicanálise''.}}{244}
+\contentsline {section}{Terceira escovada: como e porque Otto~Gross~foi~segregado~e~esquecido?\footnote {\uppercase {U}m pente fino a contrapelo foi passado nessa história em ``\uppercase {O}tto \uppercase {G}ross: um caso de segregação e esquecimento na história da psicanálise'' (\textsc {checchia}, 2018).}}{244}
 \contentsline {section}{Quarta~escovada:~a~estrutura~e~a~violência do~patriarcado~está~disseminada nas~comunidades~psicanalíticas}{249}
-\contentsline {section}{Bibliografia}{251}
+\contentsline {section}{Bibliografia}{252}
 \contentsline {chapter}{Apontamentos ferenczianos para a atualidade da psicanálise,\\ \relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip \emph {por Paula Peron}}{255}
 \contentsline {section}{Muito além do princípio da razão fálica }{258}
 \contentsline {section}{Estratégias de resistência e horizontalidade -- muito além do princípio de organização fálica }{263}
