@@ -7,7 +7,7 @@
 \contentsline {section}{Os irmãos}{28}
 \contentsline {section}{O patriarcado e a expulsão}{33}
 \contentsline {section}{Bibliografia}{40}
-\contentsline {chapter}{Vulnerabilidade fundamental, \relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip \emph {por Janaína Namba}}{43}
+\contentsline {chapter}{Desamparo e horda primitiva, \relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip \emph {por Janaína Namba}}{43}
 \contentsline {section}{Bibliografia}{56}
 \contentsline {part}{Interstícios do texto freudiano:\\ acerto de contas}{57}
 \contentsline {chapter}{Dentro do sonho, \relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip \emph {por Stephen Frosh}}{59}
@@ -16,7 +16,7 @@
 \contentsline {section}{O sonho da injeção de Irma}{70}
 \contentsline {section}{Ruptura e sonho}{80}
 \contentsline {section}{Bibliografia}{82}
-\contentsline {chapter}{Por uma leitura reparadora do destino das mulheres criado pela psicanálise: de volta à Sociedade das Quartas"-Feiras,\\ \relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip \emph {por Aline de Souza Martins e Lívia Santiago Moreira}}{85}
+\contentsline {chapter}{A origem do destino criado para as mulheres pela psicanálise: por uma leitura reparadora através das atas da Sociedade das Quartas-feiras, \relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip \emph {por Aline de Souza Martins e Lívia Santiago Moreira}}{85}
 \contentsline {section}{Atas~da~Sociedade~Psicanalítica~de~Viena: mulheres~fazendo~os~biscoitos~enquanto os~homens~discutem~coisas~sérias}{90}
 \contentsline {section}{Destinos do Édipo}{96}
 \contentsline {section}{``Ainda essa discussão sobre patriarcado?'': qual~é~a~regra~do~jogo e quem é o dono da bola}{98}
@@ -24,7 +24,7 @@
 \contentsline {section}{Mulheres questionando A Psicanálise}{106}
 \contentsline {section}{Conclusão: manutenção da forma através~da~exploração~do conteúdo}{110}
 \contentsline {section}{Bibliografia}{113}
-\contentsline {chapter}{\emph {Bêtes Noirs}: uma releitura interseccional do texto freudiano sobre homossexualidade feminina, \relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip \emph {por Marita Vyrgioti}}{115}
+\contentsline {chapter}{\emph {Bêtes Noirs}: uma leitura interseccional do caso freudiano de homossexualidade feminina, \relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip \emph {por Marita Vyrgioti}}{115}
 \contentsline {section}{Fantasmas lésbicos: Homossexualidade na~história~da~psicanálise}{116}
 \contentsline {section}{A homossexualidade em mulheres como~tabu~do~psicanalista}{119}
 \contentsline {section}{Homossexualidade feminina, promiscuidade e pele}{126}
@@ -37,7 +37,7 @@
 \contentsline {section}{Da faxina geral ao gozo possível}{156}
 \contentsline {section}{Bibliografia}{163}
 \contentsline {part}{Extraterritorialidades:\\ o olhar lançado de fora na análise de Freud}{167}
-\contentsline {chapter}{Oswald contra o Patriarcado: antropofagia, matriarcado e complexo de Édipo, \relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip \emph {por Filipe Ceppas}}{169}
+\contentsline {chapter}{Oswald contra o patriarcado: antropofagia, matriarcado e complexo de Édipo, \relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip \emph {por Filipe Ceppas}}{169}
 \contentsline {section}{Apresentação}{170}
 \contentsline {section}{Só a antropofagia nos une\footnote {\uppercase {P}rimeiro aforisma do \emph {\uppercase {M}anifesto antropófago}.}}{172}
 \contentsline {section}{Matriarcado}{175}
@@ -45,9 +45,9 @@
 \contentsline {section}{\emph {Post scriptum 1}}{186}
 \contentsline {section}{\emph {Post scriptum 2}}{187}
 \contentsline {section}{Bibliografia}{189}
-\contentsline {chapter}{Escrever: Mulheres, ficção e psicanálise, \relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip \emph {por Julia F. Vasconcelos, Manuela B. Crissiuma, Mariana F. Angelini e Renata de Lima Conde}}{193}
+\contentsline {chapter}{Escrever: mulheres, ficção e psicanálise, \relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip \emph {por Julia F. Vasconcelos, Manuela B. Crissiuma, Mariana F. Angelini e Renata de Lima Conde}}{193}
 \contentsline {section}{Bibliografia}{204}
-\contentsline {chapter}{Freud e o conhecimento-do-corpo: viajando pelos limites da linguagem via angústia, \relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip \emph {por Ana Carolina Minozzo}}{207}
+\contentsline {chapter}{Freud e o conhecimento-do-corpo: viajando pelos limites da linguagem através da angústia?, \relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip \emph {por Ana Carolina Minozzo}}{207}
 \contentsline {section}{Um retorno ao Freud dos primórdios}{209}
 \contentsline {section}{Um excesso afirmativo}{216}
 \contentsline {section}{bibliografia}{225}
