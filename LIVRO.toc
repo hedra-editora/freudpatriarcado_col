@@ -24,10 +24,10 @@
 \contentsline {section}{Mulheres questionando A Psicanálise}{106}
 \contentsline {section}{Conclusão: manutenção da forma através~da~exploração~do conteúdo}{110}
 \contentsline {section}{Bibliografia}{113}
-\contentsline {chapter}{\emph {Bêtes Noirs}: uma leitura interseccional do caso freudiano de homossexualidade feminina, \relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip \emph {por Marita Vyrgioti}}{115}
-\contentsline {section}{Fantasmas lésbicos: Homossexualidade na~história~da~psicanálise}{116}
-\contentsline {section}{A homossexualidade em mulheres como~tabu~do~psicanalista}{119}
-\contentsline {section}{Homossexualidade feminina, promiscuidade e pele}{126}
+\contentsline {chapter}{\emph {Bêtes noirs}: as mulheres \emph {queer} da psicanálise, \relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip \emph {por Marita Vyrgioti}}{115}
+\contentsline {section}{Fantasmas \emph {queer}}{116}
+\contentsline {section}{Tabu da psicanálise}{119}
+\contentsline {section}{Homossexualidade e pele}{126}
 \contentsline {section}{Freud interseccional: Revisitando a psicogênese de~um~caso de homossexualidade numa mulher}{130}
 \contentsline {section}{Conclusão}{134}
 \contentsline {section}{Bibliografia}{136}
@@ -47,7 +47,7 @@
 \contentsline {section}{Bibliografia}{189}
 \contentsline {chapter}{Escrever: mulheres, ficção e psicanálise, \relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip \emph {por Julia F. Vasconcelos, Manuela B. Crissiuma, Mariana F. Angelini e Renata de Lima Conde}}{193}
 \contentsline {section}{Bibliografia}{204}
-\contentsline {chapter}{Freud e o conhecimento-do-corpo: viajando pelos limites da linguagem através da angústia?, \relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip \emph {por Ana Carolina Minozzo}}{207}
+\contentsline {chapter}{Freud e o conhecimento-do-corpo: viajando pelos limites da linguagem através da angústia, \relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip \emph {por Ana Carolina Minozzo}}{207}
 \contentsline {section}{Um retorno ao Freud dos primórdios}{209}
 \contentsline {section}{Um excesso afirmativo}{216}
 \contentsline {section}{bibliografia}{225}
@@ -55,7 +55,7 @@
 \contentsline {chapter}{O patriarcado entre Sigmund Freud e Otto Gross,\\ \relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip \emph {por Marcelo Amorim Checchia}}{231}
 \contentsline {section}{Primeira escovada: o conceito de patriarcado~na~obra~freudiana}{232}
 \contentsline {section}{Segunda escovada: quem foi Otto Gross?}{235}
-\contentsline {section}{Terceira escovada: como e porque Otto~Gross~foi~segregado~e~esquecido?\footnote {\uppercase {U}m pente fino a contrapelo foi passado nessa história em ``\uppercase {O}tto \uppercase {G}ross: um caso de segregação e esquecimento na história da psicanálise'' (\textsc {checchia}, 2018).}}{244}
+\contentsline {section}{Terceira escovada: como e por que Otto~Gross~foi~segregado~e~esquecido?\footnote {\uppercase {U}m pente fino a contrapelo foi passado nessa história em ``\uppercase {O}tto \uppercase {G}ross: um caso de segregação e esquecimento na história da psicanálise'' (\textsc {checchia}, 2018).}}{244}
 \contentsline {section}{Quarta~escovada:~a~estrutura~e~a~violência do~patriarcado~está~disseminada nas~comunidades~psicanalíticas}{249}
 \contentsline {section}{Bibliografia}{252}
 \contentsline {chapter}{Apontamentos ferenczianos para a atualidade da psicanálise,\\ \relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip \emph {por Paula Peron}}{255}
@@ -68,7 +68,7 @@
 \contentsline {section}{I}{277}
 \contentsline {section}{II}{294}
 \contentsline {section}{Bibliografia}{308}
-\contentsline {chapter}{Imposições sexuais e diferenças entre os sexos: bruxas, \emph {femmes seules}, solteironas e Freud, \relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip \emph {por Beatriz Santos}}{313}
+\contentsline {chapter}{Imposições sexuais e diferenças entre os sexos: bruxas, \emph {femmes seules}, solteironas e Sigmund Freud, \relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip \emph {por Beatriz Santos}}{313}
 \contentsline {section}{A heterossexualidade como instituição}{314}
 \contentsline {section}{Diferenças anatômicas, consequências psíquicas}{316}
 \contentsline {section}{Uma diferença de sexos}{322}

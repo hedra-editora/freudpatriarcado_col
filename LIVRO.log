@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Arch Linux)  (format=lualatex 2017.10.31)  29 OCT 2019 17:19
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Arch Linux)  (format=lualatex 2017.10.31)  5 NOV 2019 18:24
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.229 seconds
+luaotfload | main : initialization completed in 0.236 seconds
 Babel <3.12> and hyphenation patterns for 1 language(s) loaded.
 (/usr/share/texmf-dist/tex/latex/memoir/memoir.cls
 Document Class: memoir 2016/05/16 v3.7f configurable book, report, article docum
@@ -1721,12 +1721,6 @@ File: mt-ptm.cfg 2006/04/20 v1.7 microtype config. file: Times (RS)
 [4
 
 ] [5] [6] (./LIVRO.toc
-Underfull \hbox (badness 2042) in paragraph at lines 27--27
-[]|\TU/LinuxLibertineO(0)/m/it/10.95 Bê-tes Noirs\TU/LinuxLibertineO(0)/m/n/10
-.95 : uma lei-tura in-ter-sec-ci-o-nal do caso freu-di-ano de 
- []
-
-
 Underfull \hbox (badness 2334) in paragraph at lines 50--50
 []|\TU/LinuxLibertineO(0)/m/n/10.95 Freud e o conhecimento-do-corpo: vi-a-jando
  pe-los li-mi-tes da 
@@ -1753,25 +1747,21 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <17.28> on input line 9.
  [23
 
-] [24] [25]
-Overfull \vbox (14.21039pt too high) has occurred while \output is active []
-
-
-[26]
+] [24]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 189.
- [27]
-Overfull \vbox (17.93097pt too high) has occurred while \output is active []
+(Font)              <10.95> on input line 87.
+
+Overfull \vbox (8.61606pt too high) has occurred while \output is active []
 
 
-[28] [29] [30] [31] [32] [33] [34] [35] [36] [37] [38] [39] [40] [41] [42]
-[43
+[25] [26] [27] [28] [29] [30] [31] [32] [33] [34] [35] [36] [37] [38] [39]
+[40] [41] [42] [43
 
-] [44] [45] [46] [47] [48] [49] [50] [51] [52] [53] [54] [55]) (./PART2.tex
-[56] [57
+] [44] [45] [46] [47] [48] [49] [50] [51] [52] [53] [54]
+[55]) (./PART2.tex [56] [57
 
 ] [58]
-Overfull \vbox (5.4818pt too high) has occurred while \output is active []
+Overfull \vbox (17.4818pt too high) has occurred while \output is active []
 
 
 [59
@@ -1796,29 +1786,29 @@ Overfull \vbox (9.304pt too high) has occurred while \output is active []
 
 ]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 927.
+(Font)              <7> on input line 926.
  [85] [86] [87] [88] [89]
 [90] [91] [92] [93] [94] [95] [96] [97] [98] [99] [100] [101] [102] [103]
 [104] [105] [106] [107] [108] [109] [110] [111] [112] [113] [114] [115
 
 ]
-Overfull \vbox (13.28302pt too high) has occurred while \output is active []
+Overfull \vbox (0.68307pt too high) has occurred while \output is active []
 
 
 [116] [117] [118] [119]
-Overfull \vbox (22.15599pt too high) has occurred while \output is active []
+Overfull \vbox (17.15599pt too high) has occurred while \output is active []
 
 
 [120]
-Overfull \vbox (14.24799pt too high) has occurred while \output is active []
-
-
-[121]
 Overfull \vbox (19.60799pt too high) has occurred while \output is active []
 
 
+[121]
+Overfull \vbox (19.19998pt too high) has occurred while \output is active []
+
+
 [122] [123] [124] [125] [126]
-Overfull \vbox (7.10799pt too high) has occurred while \output is active []
+Overfull \vbox (19.10799pt too high) has occurred while \output is active []
 
 
 [127] [128] [129]
@@ -1934,14 +1924,10 @@ Overfull \vbox (9.15599pt too high) has occurred while \output is active []
 [197] [198] [199] [200] [201] [202] [203] [204] [205] [206
 
 ]
-Overfull \vbox (5.5759pt too high) has occurred while \output is active []
+Overfull \vbox (11.36389pt too high) has occurred while \output is active []
 
 
-[207]
-Overfull \vbox (12.65599pt too high) has occurred while \output is active []
-
-
-[208] [209] [210] [211] [212]
+[207] [208] [209] [210] [211] [212]
 Overfull \vbox (11.65599pt too high) has occurred while \output is active []
 
 
@@ -2268,15 +2254,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 6--8
  (./LIVRO.aux (./INPUTS.aux) (./PUBLICIDADE.aux)))
 
 Here is how much of LuaTeX's memory you used:
- 24501 strings out of 494472
+ 24500 strings out of 494472
  100000,794899 words of node,token memory allocated
  4063 words of node memory still in use:
    4 hlist, 1 vlist, 1 rule, 172 glue, 1 penalty, 696 attribute, 195 glue_spec, 
 174 attribute_list, 3 shape, 2 write nodes
    avail lists: 1:2,2:3317,3:251,4:133,5:447,6:5326,7:1561,8:76,9:357,10:32,11:8
 13
- 27365 multiletter control sequences out of 65536+600000
- 126 fonts using 24007643 bytes
+ 27364 multiletter control sequences out of 65536+600000
+ 126 fonts using 24007719 bytes
  50i,14n,70p,1369b,582s stack positions out of 5000i,500n,10000p,200000b,100000s
 {/usr/share/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}{/usr/share/texmf
 -dist/fonts/enc/dvips/base/8r.enc}</usr/share/texmf-dist/fonts/opentype/public/l
@@ -2285,7 +2271,7 @@ ine/LinLibertine_RB.otf></usr/share/texmf-dist/fonts/opentype/public/libertine/L
 inLibertine_R.otf></usr/share/texmf-dist/fonts/type1/arkandis/adforn/OrnementsAD
 F.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcirclew.pfb><
 /usr/share/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
-Output written on LIVRO.pdf (398 pages, 1325868 bytes).
+Output written on LIVRO.pdf (398 pages, 1325739 bytes).
 
 PDF statistics: 1289 PDF objects out of 1440 (max. 8388607)
  865 compressed objects within 9 object streams
