@@ -28,7 +28,7 @@
 \contentsline {section}{Fantasmas \emph {queer}}{116}
 \contentsline {section}{Tabu da psicanálise}{119}
 \contentsline {section}{Homossexualidade e pele}{126}
-\contentsline {section}{Freud interseccional: Revisitando a psicogênese de~um~caso de homossexualidade numa mulher}{130}
+\contentsline {section}{Freud interseccional}{130}
 \contentsline {section}{Conclusão}{134}
 \contentsline {section}{Bibliografia}{136}
 \contentsline {chapter}{Fricção entre corpo e palavra: crítica ao \emph {Moisés} de Freud e Lacan,\\ \relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip \emph {por Alessandra Parente}}{139}
@@ -79,7 +79,7 @@
 \contentsline {section}{Introdução}{351}
 \contentsline {section}{Contexto de discussão: o declínio da~autoridade~paterna}{353}
 \contentsline {section}{Lasch \emph {versus} teóricas feministas: uma~crítica~ao~apego~ao~patriarcado}{359}
-\contentsline {section}{A objetificação da mulher em Freud~e~uma~saída~feminista}{362}
+\contentsline {section}{A objetificação da mulher em Freud~e~uma~saída~feminista}{363}
 \contentsline {section}{Considerações finais}{368}
 \contentsline {section}{Bibliografia}{369}
 \contentsline {chapter}{Sequelas patriarcalistas em Freud segundo Luce Irigaray: sexualidade feminina e diferença sexual, \relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip \emph {por Rafael Kalaf Cossi}}{373}
