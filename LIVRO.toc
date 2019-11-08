@@ -16,7 +16,7 @@
 \contentsline {section}{O sonho da injeção de Irma}{70}
 \contentsline {section}{Ruptura e sonho}{80}
 \contentsline {section}{Bibliografia}{82}
-\contentsline {chapter}{A origem do destino criado para as mulheres pela psicanálise: por uma leitura reparadora através das atas da Sociedade das Quartas-feiras, \relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip \emph {por Aline de Souza Martins e Lívia Santiago Moreira}}{85}
+\contentsline {chapter}{A origem do destino criado para as mulheres pela psicanálise: por uma leitura reparadora através das atas da Sociedade das Quartas"-feiras, \relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip \emph {por Aline de Souza Martins e Lívia Santiago Moreira}}{85}
 \contentsline {section}{Atas~da~Sociedade~Psicanalítica~de~Viena: mulheres~fazendo~os~biscoitos~enquanto os~homens~discutem~coisas~sérias}{90}
 \contentsline {section}{Destinos do Édipo}{96}
 \contentsline {section}{``Ainda essa discussão sobre patriarcado?'': qual~é~a~regra~do~jogo e quem é o dono da bola}{98}
@@ -30,7 +30,7 @@
 \contentsline {section}{Homossexualidade e pele}{126}
 \contentsline {section}{Freud interseccional}{130}
 \contentsline {section}{Conclusão}{134}
-\contentsline {section}{Bibliografia}{136}
+\contentsline {section}{Bibliografia}{135}
 \contentsline {chapter}{Fricção entre corpo e palavra: crítica ao \emph {Moisés} de Freud e Lacan,\\ \relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip \emph {por Alessandra Parente}}{139}
 \contentsline {section}{Das tripas, coração}{143}
 \contentsline {section}{\textsc {\MakeTextLowercase {YHWY}} e o Nome-do-Pai}{149}
