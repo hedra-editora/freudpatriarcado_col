@@ -1,4 +1,4 @@
-\select@language {brazilian}
+\babel@toc {brazilian}{}
 \hyphenpenalty =10000\thispagestyle {empty}
 \contentsline {chapter}{Apresentação}{9}
 \contentsline {part}{Revisitando os pilares de Freud}{21}
@@ -31,7 +31,7 @@
 \contentsline {section}{Freud interseccional}{130}
 \contentsline {section}{Conclusão}{134}
 \contentsline {section}{Bibliografia}{135}
-\contentsline {chapter}{Fricção entre corpo e palavra: crítica ao \emph {Moisés} de Freud e Lacan,\\ \relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip \emph {por Alessandra Parente}}{139}
+\contentsline {chapter}{Fricção entre corpo e palavra: crítica ao \emph {Moisés} de Freud e Lacan,\\ \relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip \emph {por Alessandra Martins Parente}}{139}
 \contentsline {section}{Das tripas, coração}{143}
 \contentsline {section}{\textsc {\MakeTextLowercase {YHWY}} e o Nome-do-Pai}{149}
 \contentsline {section}{Da faxina geral ao gozo possível}{156}
@@ -57,7 +57,7 @@
 \contentsline {section}{Segunda escovada: quem foi Otto Gross?}{235}
 \contentsline {section}{Terceira escovada: como e por que Otto~Gross~foi~segregado~e~esquecido?\footnote {\uppercase {U}m pente fino a contrapelo foi passado nessa história em ``\uppercase {O}tto \uppercase {G}ross: um caso de segregação e esquecimento na história da psicanálise'' (\textsc {checchia}, 2018).}}{244}
 \contentsline {section}{Quarta~escovada:~a~estrutura~e~a~violência do~patriarcado~está~disseminada nas~comunidades~psicanalíticas}{249}
-\contentsline {section}{Bibliografia}{252}
+\contentsline {section}{Bibliografia}{251}
 \contentsline {chapter}{Apontamentos ferenczianos para a atualidade da psicanálise,\\ \relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip \emph {por Paula Peron}}{255}
 \contentsline {section}{Muito além do princípio da razão fálica }{258}
 \contentsline {section}{Estratégias de resistência e horizontalidade -- muito além do princípio de organização fálica }{263}
