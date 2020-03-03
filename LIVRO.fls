@@ -360,9 +360,9 @@ INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr5.tfm
 INPUT ./frontconselho.tex
 INPUT ./frontconselho.tex
-INPUT ./logos.png
-INPUT ./logos.png
-INPUT ./logos.png
+INPUT ./logos.pdf
+INPUT ./logos.pdf
+INPUT ./logos.pdf
 INPUT ./PRETAS.tex
 INPUT ./PRETAS.tex
 INPUT ./PRETAS.tex
