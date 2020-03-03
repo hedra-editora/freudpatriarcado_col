@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.13)  2 MAR 2020 12:26
+=======
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Arch Linux)  (format=lualatex 2018.1.16)  10 JAN 2020 16:42
+>>>>>>> 53322f6f26b9e22583ffc9ba09f407fb4d0788bb
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -34,9 +38,15 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
+<<<<<<< HEAD
 luaotfload | main : initialization completed in 0.091 seconds
 Babel <3.18> and hyphenation patterns for 1 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/memoir/memoir.cls
+=======
+luaotfload | main : initialization completed in 0.205 seconds
+Babel <3.15> and hyphenation patterns for 1 language(s) loaded.
+(/usr/share/texmf-dist/tex/latex/memoir/memoir.cls
+>>>>>>> 53322f6f26b9e22583ffc9ba09f407fb4d0788bb
 Document Class: memoir 2016/05/16 v3.7f configurable book, report, article docum
 ent class
 \onelineskip=\skip41
@@ -535,15 +545,27 @@ Package: footnote 1997/01/28 1.13 Save footnotes around boxes
 )
 \epigraphminimallength=\skip190
 )
+<<<<<<< HEAD
 (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
 Package: babel 2018/02/14 3.18 The Babel package
 
 (/usr/share/texlive/texmf-dist/tex/generic/babel/switch.def
 File: switch.def 2018/02/14 3.18 Babel switching mechanism
+=======
+(/usr/share/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2017/11/03 3.15 The Babel package
+
+(/usr/share/texmf-dist/tex/generic/babel/switch.def
+File: switch.def 2017/11/03 3.15 Babel switching mechanism
+>>>>>>> 53322f6f26b9e22583ffc9ba09f407fb4d0788bb
 )
 (/usr/share/texlive/texmf-dist/tex/generic/babel/luababel.def
 \l@dumylang=\language2
+<<<<<<< HEAD
 Package babel Info: Non-standard hyphenation setup on input line 113.
+=======
+Package babel Info: Non-standard hyphenation setup on input line 112.
+>>>>>>> 53322f6f26b9e22583ffc9ba09f407fb4d0788bb
 \l@nohyphenation=\language3
 \l@monogreek=\language4
 \l@ukenglish=\language5
@@ -630,8 +652,17 @@ Package babel Info: Non-standard hyphenation setup on input line 113.
 (/usr/share/texlive/texmf-dist/tex/generic/babel-greek/greek.ldf
 Language: greek 2016/09/07 v1.9g Greek support for the babel system
 
+<<<<<<< HEAD
 (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
 File: babel.def 2018/02/14 3.18 Babel common definitions
+=======
+(/usr/share/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2017/11/03 3.15 Babel common definitions
+
+(/usr/share/texmf-dist/tex/generic/babel/switch.def
+File: switch.def 2017/11/03 3.15 Babel switching mechanism
+)
+>>>>>>> 53322f6f26b9e22583ffc9ba09f407fb4d0788bb
 \babel@savecnt=\count148
 \U@D=\dimen171
 
@@ -679,28 +710,47 @@ tex UTF-8 German hyphenation patterns (reformed orthography)
 (/usr/share/texlive/texmf-dist/tex/generic/hyph-utf8/patterns/tex/hyph-de-1996.
 tex
 German Hyphenation Patterns (Reformed Orthography, 2006) `dehyphn-x' 2017-03-31
+<<<<<<< HEAD
  (WL))))) (/usr/share/texlive/texmf-dist/tex/generic/babel-french/french.ldf
 Language: french 2018/02/04 v3.4b French support from the babel system
 \l@acadian = a dialect from \language\l@french 
+=======
+ (WL))))) (/usr/share/texmf-dist/tex/generic/babel-french/french.ldf
+Language: french 2017/10/19 v3.3d French support from the babel system
+>>>>>>> 53322f6f26b9e22583ffc9ba09f407fb4d0788bb
 \FB@nonchar=\count155
 \FB@spacing=\attribute5
 \FB@addDPspace=\attribute6
 \FB@addGUILspace=\attribute7
 \FB@ucsNBSP=\attribute8
+<<<<<<< HEAD
 \FB@dialect=\attribute9
 Package french.ldf Info: No need for active punctuation characters
 (french.ldf)             with this version of LuaTeX!
 (french.ldf)             reported on input line 246.
+=======
+Package french.ldf Info: No need for active punctuation characters
+(french.ldf)             with this version of LuaTeX!
+(french.ldf)             reported on input line 189.
+\FBguillsp=\toks27
+>>>>>>> 53322f6f26b9e22583ffc9ba09f407fb4d0788bb
 \FBguill@level=\count156
 \FB@everypar=\toks25
 \FB@Mht=\dimen172
+<<<<<<< HEAD
 LaTeX Info: Redefining \degres on input line 753.
+=======
+LaTeX Info: Redefining \degres on input line 681.
+>>>>>>> 53322f6f26b9e22583ffc9ba09f407fb4d0788bb
 \mc@charclass=\count157
 \mc@charfam=\count158
 \mc@charslot=\count159
 \std@mcc=\count160
 \dec@mcc=\count161
+<<<<<<< HEAD
 Inserting `frenchb.french_punctuation' at position 1 in `kerning'.
+=======
+>>>>>>> 53322f6f26b9e22583ffc9ba09f407fb4d0788bb
 \c@FBcaption@count=\count162
 \listindentFB=\skip191
 \descindentFB=\skip192
@@ -711,12 +761,22 @@ Inserting `frenchb.french_punctuation' at position 1 in `kerning'.
 
 (/usr/share/texlive/texmf-dist/tex/generic/hyph-utf8/loadhyph/loadhyph-fr.tex
 UTF-8 French hyphenation patterns
+<<<<<<< HEAD
 (/usr/share/texlive/texmf-dist/tex/generic/hyph-utf8/patterns/tex/hyph-fr.tex)
 (/usr/share/texlive/texmf-dist/tex/generic/hyph-utf8/patterns/quote/hyph-quote-
 fr.tex))) (/usr/share/texlive/texmf-dist/tex/generic/babel-russian/russianb.ldf
 Language: russian 2017/08/12 1.3j Russian support for the Babel system
 Package babel Info: Default for \cyrdash is provided on input line 157.
 (/usr/share/texlive/texmf-dist/tex/generic/hyph-utf8/loadhyph/loadhyph-ru.tex
+=======
+(/usr/share/texmf-dist/tex/generic/hyph-utf8/patterns/tex/hyph-fr.tex)
+(/usr/share/texmf-dist/tex/generic/hyph-utf8/patterns/quote/hyph-quote-fr.tex)))
+ (/usr/share/texmf-dist/tex/generic/babel-russian/russianb.ldf
+Language: russian 2017/08/12 1.3j Russian support for the Babel system
+Package babel Info: Default for \cyrdash is provided on input line 157.
+
+(/usr/share/texmf-dist/tex/generic/hyph-utf8/loadhyph/loadhyph-ru.tex
+>>>>>>> 53322f6f26b9e22583ffc9ba09f407fb4d0788bb
 UTF-8 Russian hyphenation patterns
 (/usr/share/texlive/texmf-dist/tex/generic/hyph-utf8/patterns/tex/hyph-ru.tex)))
  (/usr/share/texlive/texmf-dist/tex/generic/babel-portuges/portuges.ldf
@@ -725,6 +785,7 @@ Language: portuges 2008/03/18 v1.2q Portuguese support from the babel system
 
 (/usr/share/texlive/texmf-dist/tex/generic/hyph-utf8/loadhyph/loadhyph-pt.tex
 UTF-8 Portuguese hyphenation patterns
+<<<<<<< HEAD
 (/usr/share/texlive/texmf-dist/tex/generic/hyph-utf8/patterns/tex/hyph-pt.tex)))
 ) (/usr/share/texlive/texmf-dist/tex/latex/carlisle/scalefnt.sty)
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.sty
@@ -741,6 +802,24 @@ File: microtype-luatex.def 2018/01/14 v2.7a Definitions specific to luatex (RS)
 Lua module: microtype 2018/01/14 2.7a microtype module.
 LaTeX Info: Redefining \lsstyle on input line 679.
 LaTeX Info: Redefining \lslig on input line 679.
+=======
+(/usr/share/texmf-dist/tex/generic/hyph-utf8/patterns/tex/hyph-pt.tex))))
+(/usr/share/texmf-dist/tex/latex/carlisle/scalefnt.sty)
+(/usr/share/texmf-dist/tex/latex/microtype/microtype.sty
+Package: microtype 2017/07/07 v2.7 Micro-typographical refinements (RS)
+\MT@toks=\toks29
+\MT@count=\count163
+LaTeX Info: Redefining \textls on input line 789.
+\MT@outer@kern=\dimen174
+LaTeX Info: Redefining \textmicrotypecontext on input line 1334.
+\MT@listname@count=\count164
+
+(/usr/share/texmf-dist/tex/latex/microtype/microtype-luatex.def
+File: microtype-luatex.def 2017/07/07 v2.7 Definitions specific to luatex (RS)
+Lua module: microtype 2017/07/07 2.7 microtype module.
+LaTeX Info: Redefining \lsstyle on input line 681.
+LaTeX Info: Redefining \lslig on input line 681.
+>>>>>>> 53322f6f26b9e22583ffc9ba09f407fb4d0788bb
 \MT@outer@space=\skip257
 )
 Package microtype Info: Loading configuration file microtype.cfg.
@@ -748,6 +827,7 @@ Package microtype Info: Loading configuration file microtype.cfg.
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.cfg
 File: microtype.cfg 2018/01/14 v2.7a microtype main configuration file (RS)
 ))
+<<<<<<< HEAD
 (/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
 (/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
 (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
@@ -755,6 +835,15 @@ Package: expl3 2018/02/21 L3 programming layer (loader)
 
 (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3-code.tex
 Package: expl3 2018/02/21 L3 programming layer (code)
+=======
+(/usr/share/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/share/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/share/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2017/11/14 L3 programming layer (loader) 
+
+(/usr/share/texmf-dist/tex/latex/l3kernel/expl3-code.tex
+Package: expl3 2017/11/14 L3 programming layer (code)
+>>>>>>> 53322f6f26b9e22583ffc9ba09f407fb4d0788bb
 \ucharcat@table=\catcodetable5
 \c_max_int=\count165
 \l_tmpa_int=\count166
@@ -854,7 +943,11 @@ Package: expl3 2018/02/21 L3 programming layer (code)
 \l__regex_min_submatch_int=\count313
 \l__regex_submatch_int=\count314
 \l__regex_zeroth_submatch_int=\count315
+<<<<<<< HEAD
 \g__regex_trace_regex_int=\count316
+=======
+\g__debug_trace_regex_int=\count316
+>>>>>>> 53322f6f26b9e22583ffc9ba09f407fb4d0788bb
 \c_empty_box=\box35
 \l_tmpa_box=\box36
 \l_tmpb_box=\box37
@@ -901,7 +994,11 @@ File: l3pdfmode.def 2017/03/18 v L3 Experimental driver: PDF mode
 \l__driver_color_stack_int=\count317
 \l__driver_tmp_box=\box50
 ))
+<<<<<<< HEAD
 Package: xparse 2018/02/21 L3 Experimental document command parser
+=======
+Package: xparse 2017/11/14 L3 Experimental document command parser
+>>>>>>> 53322f6f26b9e22583ffc9ba09f407fb4d0788bb
 \l__xparse_current_arg_int=\count318
 \g__xparse_grabber_int=\count319
 \l__xparse_m_args_int=\count320
@@ -910,7 +1007,11 @@ Package: xparse 2018/02/21 L3 Experimental document command parser
 )
 Package: fontspec 2017/11/09 v2.6g Font selection for XeLaTeX and LuaLaTeX
 Lua module: fontspec 2017/11/09 2.6g Font selection for XeLaTeX and LuaLaTeX
+<<<<<<< HEAD
 (/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-luatex.sty
+=======
+(/usr/share/texmf-dist/tex/latex/fontspec/fontspec-luatex.sty
+>>>>>>> 53322f6f26b9e22583ffc9ba09f407fb4d0788bb
 Package: fontspec-luatex 2017/11/09 v2.6g Font selection for XeLaTeX and LuaLaTe
 X
 \l__fontspec_script_int=\count323
@@ -941,6 +1042,7 @@ LaTeX Font Warning: Font shape `TU/cmr/m/n' undefined
 (Font)              using `TU/lmr/m/n' instead on input line 105.
 
 )
+<<<<<<< HEAD
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
@@ -950,155 +1052,285 @@ LaTeX Font Warning: Font shape `TU/cmr/m/n' undefined
 . LaTeX info: "xparse/define-command"
 . 
 . Defining command \setmainfont with sig. 'O{}mO{}' on line 549.
+=======
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \fontspec with sig. 'O{}mO{}' on line 545.
+>>>>>>> 53322f6f26b9e22583ffc9ba09f407fb4d0788bb
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
+<<<<<<< HEAD
 . Defining command \setsansfont with sig. 'O{}mO{}' on line 553.
+=======
+. Defining command \setmainfont with sig. 'O{}mO{}' on line 549.
+>>>>>>> 53322f6f26b9e22583ffc9ba09f407fb4d0788bb
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
+<<<<<<< HEAD
 . Defining command \setmonofont with sig. 'O{}mO{}' on line 557.
+=======
+. Defining command \setsansfont with sig. 'O{}mO{}' on line 553.
+>>>>>>> 53322f6f26b9e22583ffc9ba09f407fb4d0788bb
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
+<<<<<<< HEAD
 . Defining command \setmathrm with sig. 'O{}mO{}' on line 561.
+=======
+. Defining command \setmonofont with sig. 'O{}mO{}' on line 557.
+>>>>>>> 53322f6f26b9e22583ffc9ba09f407fb4d0788bb
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
+<<<<<<< HEAD
 . Defining command \setboldmathrm with sig. 'O{}mO{}' on line 565.
+=======
+. Defining command \setmathrm with sig. 'O{}mO{}' on line 561.
+>>>>>>> 53322f6f26b9e22583ffc9ba09f407fb4d0788bb
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
+<<<<<<< HEAD
 . Defining command \setmathsf with sig. 'O{}mO{}' on line 569.
+=======
+. Defining command \setboldmathrm with sig. 'O{}mO{}' on line 565.
+>>>>>>> 53322f6f26b9e22583ffc9ba09f407fb4d0788bb
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
+<<<<<<< HEAD
 . Defining command \setmathtt with sig. 'O{}mO{}' on line 573.
+=======
+. Defining command \setmathsf with sig. 'O{}mO{}' on line 569.
+>>>>>>> 53322f6f26b9e22583ffc9ba09f407fb4d0788bb
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
+<<<<<<< HEAD
 . Defining command \setromanfont with sig. 'O{}mO{}' on line 577.
+=======
+. Defining command \setmathtt with sig. 'O{}mO{}' on line 573.
+>>>>>>> 53322f6f26b9e22583ffc9ba09f407fb4d0788bb
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
+<<<<<<< HEAD
 . Defining command \newfontfamily with sig. 'mO{}mO{}' on line 581.
+=======
+. Defining command \setromanfont with sig. 'O{}mO{}' on line 577.
+>>>>>>> 53322f6f26b9e22583ffc9ba09f407fb4d0788bb
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
+<<<<<<< HEAD
 . Defining command \newfontface with sig. 'mO{}mO{}' on line 585.
+=======
+. Defining command \newfontfamily with sig. 'mO{}mO{}' on line 581.
+>>>>>>> 53322f6f26b9e22583ffc9ba09f407fb4d0788bb
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
+<<<<<<< HEAD
 . Defining command \defaultfontfeatures with sig. 't+om' on line 589.
+=======
+. Defining command \newfontface with sig. 'mO{}mO{}' on line 585.
+>>>>>>> 53322f6f26b9e22583ffc9ba09f407fb4d0788bb
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
+<<<<<<< HEAD
 . Defining command \addfontfeatures with sig. 'm' on line 593.
+=======
+. Defining command \defaultfontfeatures with sig. 't+om' on line 589.
+>>>>>>> 53322f6f26b9e22583ffc9ba09f407fb4d0788bb
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
+<<<<<<< HEAD
 . Defining command \addfontfeature with sig. 'm' on line 597.
+=======
+. Defining command \addfontfeatures with sig. 'm' on line 593.
+>>>>>>> 53322f6f26b9e22583ffc9ba09f407fb4d0788bb
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
+<<<<<<< HEAD
 . Defining command \newfontfeature with sig. 'mm' on line 601.
+=======
+. Defining command \addfontfeature with sig. 'm' on line 597.
+>>>>>>> 53322f6f26b9e22583ffc9ba09f407fb4d0788bb
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
+<<<<<<< HEAD
 . Defining command \newAATfeature with sig. 'mmmm' on line 605.
+=======
+. Defining command \newfontfeature with sig. 'mm' on line 601.
+>>>>>>> 53322f6f26b9e22583ffc9ba09f407fb4d0788bb
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
+<<<<<<< HEAD
 . Defining command \newopentypefeature with sig. 'mmm' on line 609.
+=======
+. Defining command \newAATfeature with sig. 'mmmm' on line 605.
+>>>>>>> 53322f6f26b9e22583ffc9ba09f407fb4d0788bb
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
+<<<<<<< HEAD
 . Defining command \newICUfeature with sig. 'mmm' on line 613.
+=======
+. Defining command \newopentypefeature with sig. 'mmm' on line 609.
+>>>>>>> 53322f6f26b9e22583ffc9ba09f407fb4d0788bb
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
+<<<<<<< HEAD
 . Defining command \aliasfontfeature with sig. 'mm' on line 617.
+=======
+. Defining command \newICUfeature with sig. 'mmm' on line 613.
+>>>>>>> 53322f6f26b9e22583ffc9ba09f407fb4d0788bb
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
+<<<<<<< HEAD
 . Defining command \aliasfontfeatureoption with sig. 'mmm' on line 621.
+=======
+. Defining command \aliasfontfeature with sig. 'mm' on line 617.
+>>>>>>> 53322f6f26b9e22583ffc9ba09f407fb4d0788bb
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
+<<<<<<< HEAD
 . Defining command \newfontscript with sig. 'mm' on line 625.
+=======
+. Defining command \aliasfontfeatureoption with sig. 'mmm' on line 621.
+>>>>>>> 53322f6f26b9e22583ffc9ba09f407fb4d0788bb
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
+<<<<<<< HEAD
 . Defining command \newfontlanguage with sig. 'mm' on line 629.
+=======
+. Defining command \newfontscript with sig. 'mm' on line 625.
+>>>>>>> 53322f6f26b9e22583ffc9ba09f407fb4d0788bb
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
+<<<<<<< HEAD
 . Defining command \DeclareFontsExtensions with sig. 'm' on line 633.
+=======
+. Defining command \newfontlanguage with sig. 'mm' on line 629.
+>>>>>>> 53322f6f26b9e22583ffc9ba09f407fb4d0788bb
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
+<<<<<<< HEAD
 . Defining command \IfFontFeatureActiveTF with sig. 'mmm' on line 637.
+=======
+. Defining command \DeclareFontsExtensions with sig. 'm' on line 633.
+>>>>>>> 53322f6f26b9e22583ffc9ba09f407fb4d0788bb
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
+<<<<<<< HEAD
 . Defining command \EncodingCommand with sig. 'mO{}m' on line 3366.
+=======
+. Defining command \IfFontFeatureActiveTF with sig. 'mmm' on line 637.
+>>>>>>> 53322f6f26b9e22583ffc9ba09f407fb4d0788bb
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
+<<<<<<< HEAD
 . Defining command \EncodingAccent with sig. 'mm' on line 3372.
+=======
+. Defining command \EncodingCommand with sig. 'mO{}m' on line 3366.
+>>>>>>> 53322f6f26b9e22583ffc9ba09f407fb4d0788bb
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
+<<<<<<< HEAD
 . Defining command \EncodingSymbol with sig. 'mm' on line 3378.
+=======
+. Defining command \EncodingAccent with sig. 'mm' on line 3372.
+>>>>>>> 53322f6f26b9e22583ffc9ba09f407fb4d0788bb
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
+<<<<<<< HEAD
 . Defining command \EncodingComposite with sig. 'mmm' on line 3384.
+=======
+. Defining command \EncodingSymbol with sig. 'mm' on line 3378.
+>>>>>>> 53322f6f26b9e22583ffc9ba09f407fb4d0788bb
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
+<<<<<<< HEAD
 . Defining command \EncodingCompositeCommand with sig. 'mmm' on line 3390.
+=======
+. Defining command \EncodingComposite with sig. 'mmm' on line 3384.
+>>>>>>> 53322f6f26b9e22583ffc9ba09f407fb4d0788bb
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
+<<<<<<< HEAD
 . Defining command \DeclareUnicodeEncoding with sig. 'mm' on line 3415.
+=======
+. Defining command \EncodingCompositeCommand with sig. 'mmm' on line 3390.
+>>>>>>> 53322f6f26b9e22583ffc9ba09f407fb4d0788bb
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
+<<<<<<< HEAD
+. Defining command \UndeclareSymbol with sig. 'm' on line 3421.
+=======
+. Defining command \DeclareUnicodeEncoding with sig. 'mm' on line 3415.
+>>>>>>> 53322f6f26b9e22583ffc9ba09f407fb4d0788bb
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+<<<<<<< HEAD
+=======
 . Defining command \UndeclareSymbol with sig. 'm' on line 3421.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
+>>>>>>> 53322f6f26b9e22583ffc9ba09f407fb4d0788bb
 . Defining command \UndeclareAccent with sig. 'm' on line 3427.
 .................................................
 .................................................
@@ -1111,15 +1343,24 @@ LaTeX Font Warning: Font shape `TU/cmr/m/n' undefined
 . 
 . Defining command \UndeclareComposite with sig. 'mm' on line 3440.
 .................................................
+<<<<<<< HEAD
  (/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg)
+=======
+ (/usr/share/texmf-dist/tex/latex/fontspec/fontspec.cfg)
+>>>>>>> 53322f6f26b9e22583ffc9ba09f407fb4d0788bb
 LaTeX Info: Redefining \itshape on input line 3625.
 LaTeX Info: Redefining \slshape on input line 3630.
 LaTeX Info: Redefining \scshape on input line 3635.
 LaTeX Info: Redefining \upshape on input line 3640.
 LaTeX Info: Redefining \em on input line 3670.
 LaTeX Info: Redefining \emph on input line 3695.
+<<<<<<< HEAD
 (load luc: /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/lmr
 oman12-bold.luc)(load luc: /home/edlab/.texlive2017/texmf-var/luatex-cache/gener
+=======
+(load luc: /home/editorial/.texlive/texmf-var/luatex-cache/generic/fonts/otl/lmr
+oman12-bold.luc)(load luc: /home/editorial/.texlive/texmf-var/luatex-cache/gener
+>>>>>>> 53322f6f26b9e22583ffc9ba09f407fb4d0788bb
 ic/fonts/otl/lmroman12-italic.luc)
 LaTeX Info: Redefining \- on input line 3749.
 .................................................
@@ -1191,6 +1432,7 @@ Package fixltx2e Warning: fixltx2e is not required with releases after 2015
 
 Already applied: [0000/00/00] Old fixltx2e package on input line 53.
 ))
+<<<<<<< HEAD
 luaotfload | cache : Lookup cache loaded from /home/edlab/.texlive2017/texmf-var
 /luatex-cache/generic/names/luaotfload-lookup-cache.luc.(load luc: /home/edlab/.
 texlive2017/texmf-var/luatex-cache/generic/fonts/otl/linlibertine-r.luc)
@@ -1198,6 +1440,15 @@ texlive2017/texmf-var/luatex-cache/generic/fonts/otl/linlibertine-r.luc)
 (load luc: /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/lin
 libertine-rbi.luc)(load luc: /home/edlab/.texlive2017/texmf-var/luatex-cache/gen
 eric/fonts/otl/linlibertine-rb.luc)(load luc: /home/edlab/.texlive2017/texmf-var
+=======
+luaotfload | cache : Lookup cache loaded from /home/editorial/.texlive/texmf-var
+/luatex-cache/generic/names/luaotfload-lookup-cache.luc.(load luc: /home/editori
+al/.texlive/texmf-var/luatex-cache/generic/fonts/otl/linlibertine-r.luc)
+\g__fontspec_family_LinuxLibertineO_int=\count332
+(load luc: /home/editorial/.texlive/texmf-var/luatex-cache/generic/fonts/otl/lin
+libertine-rbi.luc)(load luc: /home/editorial/.texlive/texmf-var/luatex-cache/gen
+eric/fonts/otl/linlibertine-rb.luc)(load luc: /home/editorial/.texlive/texmf-var
+>>>>>>> 53322f6f26b9e22583ffc9ba09f407fb4d0788bb
 /luatex-cache/generic/fonts/otl/linlibertine-ri.luc)
 .................................................
 . fontspec info: "defining-font"
@@ -1557,8 +1808,12 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 62.
 LaTeX Font Info:    ... okay on input line 62.
 LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 62.
 LaTeX Font Info:    Try loading font information for LGR+cmr on input line 62.
+<<<<<<< HEAD
 
 (/usr/share/texlive/texmf-dist/tex/latex/cbfonts-fd/lgrcmr.fd
+=======
+ (/usr/share/texmf-dist/tex/latex/cbfonts-fd/lgrcmr.fd
+>>>>>>> 53322f6f26b9e22583ffc9ba09f407fb4d0788bb
 File: lgrcmr.fd 2017/07/29 v1.2 Greek European Computer Regular
 )
 LaTeX Font Info:    ... okay on input line 62.
@@ -1658,13 +1913,22 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 \scratchbox=\box57
 \nofMPsegments=\count347
 \nofMParguments=\count348
+<<<<<<< HEAD
 \everyMPshowfont=\toks36
+=======
+\everyMPshowfont=\toks39
+>>>>>>> 53322f6f26b9e22583ffc9ba09f407fb4d0788bb
 \MPscratchCnt=\count349
 \MPscratchDim=\dimen324
 \MPnumerator=\count350
 \makeMPintoPDFobject=\count351
+<<<<<<< HEAD
 \everyMPtoPDFconversion=\toks37
 ) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+=======
+\everyMPtoPDFconversion=\toks40
+) (/usr/share/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+>>>>>>> 53322f6f26b9e22583ffc9ba09f407fb4d0788bb
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
 (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
@@ -2254,6 +2518,7 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 )
 
 Here is how much of LuaTeX's memory you used:
+<<<<<<< HEAD
  24759 strings out of 494480
  4441836,794899 words of node,token memory allocated
  4266026 words of node memory still in use:
@@ -2271,6 +2536,25 @@ sr/share/texlive/texmf-dist/fonts/opentype/public/libertine/LinLibertine_R.otf><
 /usr/share/texlive/texmf-dist/fonts/type1/arkandis/adforn/OrnementsADF.pfb></usr
 /share/texlive/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcirclew.pfb>
 Output written on LIVRO.pdf (398 pages, 1341125 bytes).
+=======
+ 24554 strings out of 494483
+ 13555554,794899 words of node,token memory allocated
+ 12464316 words of node memory still in use:
+   4 hlist, 1 vlist, 1 rule, 177 glue, 1 penalty, 2054949 glyph, 55110 attribute
+, 195 glue_spec, 11022 attribute_list, 3 shape, 2 write nodes
+   avail lists: 1:5,2:2688,3:251,4:133,5:447,6:216,7:1557,8:76,9:357,10:32,11:81
+3
+ 27425 multiletter control sequences out of 65536+600000
+ 122 fonts using 23727031 bytes
+ 50i,14n,69p,1369b,581s stack positions out of 5000i,500n,10000p,200000b,100000s
+{/usr/share/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}</usr/share/texmf
+-dist/fonts/opentype/public/libertine/LinLibertine_RI.otf></usr/share/texmf-dist
+/fonts/opentype/public/libertine/LinLibertine_RB.otf></usr/share/texmf-dist/font
+s/opentype/public/libertine/LinLibertine_R.otf></usr/share/texmf-dist/fonts/type
+1/arkandis/adforn/OrnementsADF.pfb></usr/share/texmf-dist/fonts/type1/public/ams
+fonts/latxfont/lcirclew.pfb>
+Output written on LIVRO.pdf (398 pages, 1337998 bytes).
+>>>>>>> 53322f6f26b9e22583ffc9ba09f407fb4d0788bb
 
 PDF statistics: 1285 PDF objects out of 1440 (max. 8388607)
  861 compressed objects within 9 object streams
